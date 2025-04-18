@@ -1,0 +1,565 @@
+"id","home_type","bed","bath","play_ground","swming_tank","acre_lot","city","state","zip_code","house_size","listing_date","listing_price","sold_date","actual_sold_price","status","zip_code_population"
+"ZZLxjAnoQk","Land",1,4,"N","N","7.872","Atlantic City","New Jersey",8402,2667,"2020-11-14",324934,"2020-07-28",425244,"Pending",6500
+"xPRXcVL7uX","Single Family",3,4,"N","Y","0.689","Atlantic City","New Jersey",8402,2225,"2020-08-14",210908,"2020-05-10",485255,"Sold",6500
+"XAsSAoYzXv","Single Family",3,0,"N","Y","9.12","Atlantic City","New Jersey",8402,2660,"2020-12-29",124053,"2020-06-30",13259,"Sold",6500
+"ZAeU3PqOoO","Land",1,2,"Y","Y","8.138","Atlantic City","New Jersey",8402,2116,"2020-06-05",427054,"2020-12-26",53964,"Sold",6500
+"eENT4HzUwS","Multi Family",0,2,"N","N","1.047","Atlantic City","New Jersey",8402,1430,"2020-12-04",160889,"2020-06-08",88513,"Pending",6500
+"PPyEr6IqZz","Multi Family",3,1,"Y","Y","7.979","Atlantic City","New Jersey",8402,904,"2020-12-01",109240,"2020-09-17",125086,"Sold",6500
+"20KnCO4nD1","Multi Family",2,0,"N","Y","6.861","Atlantic City","New Jersey",8402,834,"2020-11-07",296738,"2020-03-07",474932,"Sold",6500
+"aVQmW1UOqq","Multi Family",2,2,"Y","Y","3.439","Atlantic City","New Jersey",8402,1836,"2020-05-03",457307,"2020-01-10",93662,"Pending",6500
+"dIyX9Xiu4f","Multi Family",1,4,"Y","N","0.714","Atlantic City","New Jersey",8402,475,"2020-01-23",233729,"2020-04-03",36963,"Sold",6500
+"gC36PgVSzR","Single Family",2,2,"N","N","9.492","Atlantic City","New Jersey",8402,2372,"2020-01-23",460257,"2020-10-28",428618,"Sold",6500
+"NlqszU5f2k","Multi Family",5,0,"N","N","3.524","Atlantic City","New Jersey",8402,2094,"2020-06-22",294564,"2020-12-14",55916,"Pending",6500
+"F7OZousRgh","Multi Family",3,0,"N","Y","8.826","Atlantic City","New Jersey",8402,609,"2020-09-10",398544,"2020-10-31",140522,"Sold",6500
+"5y7qWgE9PA","Land",5,3,"Y","N","6.512","Atlantic City","New Jersey",8402,2620,"2021-01-21",79632,"2020-09-29",53438,"Pending",6500
+"X6vQm8qFJf","Single Family",4,1,"N","N","8.927","Atlantic City","New Jersey",8402,555,"2020-08-07",183903,"2020-01-04",164083,"Pending",6500
+"M9KgG0Mcz1","Single Family",2,0,"Y","N","2.137","Atlantic City","New Jersey",8402,2491,"2020-02-15",387135,"2020-05-24",34304,"Pending",6500
+"si6Gair9rD","Land",1,4,"N","N","1.087","Atlantic City","New Jersey",8402,128,"2020-11-29",434894,"2020-06-24",227607,"Sold",6500
+"fBLIj34k4z","Multi Family",2,3,"N","N","1.061","Atlantic City","New Jersey",8402,629,"2020-08-24",14624,"2020-09-26",488586,"Sold",6500
+"PNH6cTnOq2","Multi Family",4,4,"N","N","5.689","Atlantic City","New Jersey",8402,1869,"2020-07-26",121009,"2020-12-07",141952,"Pending",6500
+"xfCjOzFbJA","Single Family",3,3,"N","Y","1.029","Atlantic City","New Jersey",8402,951,"2021-01-08",323711,"2021-01-27",379959,"Pending",6500
+"xVNMHa40iS","Multi Family",3,4,"Y","Y","6.117","Atlantic City","New Jersey",8402,1919,"2020-12-19",65399,"2020-11-21",311761,"Sold",6500
+"JSIWbz3hRN","Single Family",3,4,"Y","N","0.904","Atlantic City","New Jersey",8402,2319,"2020-06-12",101996,"2020-05-23",320693,"Pending",6500
+"6a8qVts676","Multi Family",1,4,"Y","Y","2.031","Atlantic City","New Jersey",8402,564,"2020-02-13",384842,"2020-01-14",497740,"Pending",6500
+"YML71vvQum","Single Family",1,2,"N","Y","6.255","Atlantic City","New Jersey",8402,952,"2020-06-19",193948,"2020-05-22",351983,"Pending",6500
+"WlfY6n0pRR","Single Family",2,2,"Y","Y","5.313","Atlantic City","New Jersey",8402,471,"2020-07-10",492965,"2020-06-15",439254,"Pending",6500
+"NapcFT8EBZ","Land",5,1,"Y","N","7.922","Atlantic City","New Jersey",8402,1683,"2020-08-20",312010,"2020-11-29",322274,"Sold",6500
+"qtkZBv1JQW","Single Family",0,4,"N","N","8.036","Atlantic City","New Jersey",8402,1161,"2020-03-16",41832,"2020-10-23",326759,"Sold",6500
+"nbBzVcXJdY","Multi Family",3,4,"N","Y","8.227","Atlantic City","New Jersey",8402,2861,"2020-07-22",136070,"2020-10-01",462010,"Pending",6500
+"NX8yGCNTZq","Single Family",1,3,"Y","N","1.459","Atlantic City","New Jersey",8402,492,"2020-09-28",209825,"2021-01-03",32306,"Sold",6500
+"TtBDbnj1Vw","Single Family",2,3,"Y","Y","0.519","Atlantic City","New Jersey",8402,2652,"2020-11-10",398083,"2020-07-24",125044,"Pending",6500
+"XwiKjJLqEt","Multi Family",1,0,"Y","N","1.259","Atlantic City","New Jersey",8402,2099,"2020-07-29",165364,"2020-08-26",197407,"Sold",6500
+"Da3G3jGLDx","Multi Family",3,3,"Y","Y","0.33","Atlantic City","New Jersey",8402,2835,"2021-01-30",323179,"2020-08-11",421687,"Sold",6500
+"w6qqalwXPP","Multi Family",1,4,"Y","Y","7.728","Atlantic City","New Jersey",8402,1450,"2020-09-02",143985,"2020-12-25",330082,"Pending",6500
+"Cjw6HXdDUS","Single Family",5,1,"Y","N","3.481","Atlantic City","New Jersey",8402,1534,"2020-09-08",242202,"2020-07-19",274806,"Pending",6500
+"MYst5Df5dA","Multi Family",4,2,"Y","Y","6.062","Atlantic City","New Jersey",8402,2143,"2020-06-18",388950,"2020-12-27",167129,"Pending",6500
+"hM62VuAMBj","Single Family",1,3,"N","N","0.508","Atlantic City","New Jersey",8402,2691,"2020-07-13",418961,"2020-01-15",350785,"Sold",6500
+"qYX95D8XsO","Multi Family",4,0,"N","N","3.148","Atlantic City","New Jersey",8402,148,"2020-08-20",477023,"2020-05-09",492052,"Sold",6500
+"iqwbuGsKmM","Multi Family",2,1,"N","N","3.948","Atlantic City","New Jersey",8402,617,"2020-03-05",216210,"2020-11-15",371752,"Pending",6500
+"LhpUrgrPfk","Land",1,2,"Y","Y","5.632","Atlantic City","New Jersey",8402,1688,"2020-09-21",269457,"2020-09-03",109477,"Sold",6500
+"FijbEXh60l","Multi Family",2,4,"Y","Y","0.302","Atlantic City","New Jersey",8402,660,"2020-03-12",425363,"2020-11-20",331232,"Pending",6500
+"1cUaGLh98R","Multi Family",5,2,"Y","N","3.875","Atlantic City","New Jersey",8402,1318,"2020-09-28",369786,"2020-09-24",327969,"Pending",6500
+"xd6OARiO4a","Land",3,2,"Y","Y","5.963","Atlantic City","New Jersey",8402,2351,"2020-08-24",289211,"2020-05-23",280403,"Sold",6500
+"kQcsR48lgU","Single Family",1,0,"N","Y","2.931","Atlantic City","New Jersey",8402,2742,"2020-06-20",59027,"2020-12-03",71219,"Sold",6500
+"YYexi0aNxr","Single Family",0,1,"N","Y","2.184","Atlantic City","New Jersey",8402,739,"2020-01-18",396111,"2020-06-08",46616,"Pending",6500
+"8pghJdEva7","Land",5,4,"Y","Y","8.392","Atlantic City","New Jersey",8402,2324,"2020-06-26",64977,"2020-09-16",458994,"Sold",6500
+"X8I8RDLrNV","Multi Family",3,1,"Y","N","9.588","Atlantic City","New Jersey",8402,1644,"2020-01-22",411892,"2020-06-12",271445,"Pending",6500
+"HV4DcIncbZ","Land",1,0,"Y","Y","6.553","Atlantic City","New Jersey",8402,1192,"2020-04-17",25330,"2020-03-17",364503,"Pending",6500
+"lR2DqJiY0K","Multi Family",3,4,"N","N","3.195","Atlantic City","New Jersey",8402,1259,"2020-12-06",474656,"2020-09-17",337940,"Pending",6500
+"J3r607Z2Qz","Land",1,3,"Y","N","9.526","Atlantic City","New Jersey",8402,1895,"2020-08-13",287128,"2020-07-04",313770,"Pending",6500
+"MiFIBzXfHF","Single Family",3,0,"Y","N","1.934","Atlantic City","New Jersey",8402,2550,"2020-10-24",230474,"2020-11-14",308815,"Sold",6500
+"UktCvLQZun","Single Family",1,3,"N","Y","1.196","Atlantic City","New Jersey",8404,1929,"2020-12-26",417139,"2020-06-29",492522,"Sold",8900
+"bGj9362uRX","Single Family",4,0,"N","N","0.929","Atlantic City","New Jersey",8404,2236,"2020-12-01",259748,"2020-02-10",130521,"Pending",8900
+"ehx0SKaaii","Multi Family",3,2,"Y","N","9.089","Atlantic City","New Jersey",8404,722,"2020-10-12",242580,"2020-08-17",317372,"Pending",8900
+"LBwZvRKEvN","Single Family",1,0,"Y","Y","0.316","Atlantic City","New Jersey",8404,1172,"2020-01-01",363819,"2020-06-10",353141,"Pending",8900
+"B0dk5tRcpO","Multi Family",4,4,"Y","N","0.204","Atlantic City","New Jersey",8404,2259,"2020-05-31",306680,"2020-11-25",492243,"Sold",8900
+"3A996DSV5d","Land",4,4,"N","Y","6.439","Atlantic City","New Jersey",8404,1665,"2020-02-20",373090,"2020-08-21",135198,"Sold",8900
+"xRNE7iGqE4","Land",4,2,"Y","N","8.745","Atlantic City","New Jersey",8404,790,"2020-04-10",394166,"2020-02-25",63679,"Pending",8900
+"pU2BwWVQHD","Single Family",1,0,"Y","N","6.465","Atlantic City","New Jersey",8404,2253,"2020-12-26",318654,"2020-11-21",457470,"Pending",8900
+"GUDc9UDhBU","Multi Family",5,1,"Y","N","4.322","Atlantic City","New Jersey",8404,570,"2020-08-10",146850,"2020-10-09",55898,"Pending",8900
+"CfWiRx0CRF","Multi Family",1,3,"N","Y","6.966","Atlantic City","New Jersey",8404,2650,"2020-05-27",219853,"2020-06-19",495639,"Pending",8900
+"0y7W3LARbm","Single Family",4,2,"N","Y","1.624","Atlantic City","New Jersey",8404,1595,"2021-01-07",86435,"2020-05-10",387522,"Pending",8900
+"E8OoHZiZ1L","Land",1,3,"Y","Y","9.091","Atlantic City","New Jersey",8404,1450,"2020-07-17",264646,"2020-07-02",414300,"Sold",8900
+"aoCC3sMUUY","Multi Family",4,0,"N","N","3.422","Atlantic City","New Jersey",8404,1540,"2020-10-10",125256,"2020-07-09",75440,"Sold",8900
+"WL9ouwbqvF","Land",1,2,"N","Y","9.572","Atlantic City","New Jersey",8404,1497,"2020-04-14",200567,"2020-10-24",343087,"Pending",8900
+"1LtAtlfGkd","Multi Family",3,0,"N","N","7.405","Atlantic City","New Jersey",8404,1686,"2021-01-13",121617,"2020-04-21",249747,"Sold",8900
+"JXfNgtNywB","Land",5,4,"N","N","6.923","Atlantic City","New Jersey",8404,944,"2020-09-20",165928,"2020-09-11",48976,"Sold",8900
+"2dhPC7nPhJ","Multi Family",0,4,"Y","N","8.32","Atlantic City","New Jersey",8404,347,"2020-01-26",491736,"2020-02-25",202822,"Pending",8900
+"t8w2ORFBWX","Multi Family",5,0,"Y","Y","1","Atlantic City","New Jersey",8404,425,"2020-03-21",33579,"2021-01-22",420500,"Pending",8900
+"QHLdLu4y8L","Multi Family",2,0,"Y","N","5.491","Atlantic City","New Jersey",8404,2290,"2020-06-29",86361,"2020-05-14",340524,"Sold",8900
+"xbzEh6jxLA","Single Family",1,3,"Y","Y","3.976","Atlantic City","New Jersey",8404,2854,"2020-10-24",44793,"2020-03-27",176145,"Sold",8900
+"aU5kzY64AX","Multi Family",5,3,"N","N","2.088","Atlantic City","New Jersey",8404,2915,"2020-07-29",437048,"2020-09-13",128756,"Sold",8900
+"NHBTsBsp6z","Land",1,0,"Y","Y","6.489","Atlantic City","New Jersey",8404,2059,"2020-08-02",56167,"2020-01-07",354678,"Sold",8900
+"xgTziO1hjM","Single Family",2,1,"Y","Y","5.084","Atlantic City","New Jersey",8404,2074,"2020-08-30",174419,"2020-10-31",463307,"Pending",8900
+"qeZLn4SuBk","Land",4,2,"N","Y","9.815","Atlantic City","New Jersey",8404,1419,"2021-01-20",86767,"2020-09-21",188746,"Pending",8900
+"SjtGrjKjf3","Multi Family",3,1,"N","Y","3.582","Atlantic City","New Jersey",8404,1617,"2021-01-13",270647,"2020-01-27",459104,"Sold",8900
+"mqemmSA28n","Land",3,0,"Y","N","2.972","Atlantic City","New Jersey",8404,1714,"2020-11-05",372266,"2020-07-29",466969,"Sold",8900
+"rwPh6Mf1Mi","Single Family",5,1,"N","Y","1.816","Atlantic City","New Jersey",8404,2915,"2020-04-02",356364,"2021-01-04",32224,"Sold",8900
+"Gewpyt74qw","Single Family",3,2,"Y","Y","3.774","Atlantic City","New Jersey",8404,719,"2020-01-12",300555,"2020-05-26",82872,"Pending",8900
+"YyXv9LPyLu","Multi Family",0,4,"Y","N","3.557","Atlantic City","New Jersey",8404,530,"2020-09-10",27881,"2020-09-01",243194,"Sold",8900
+"dJLpHdcSxa","Multi Family",0,3,"Y","Y","8.756","Atlantic City","New Jersey",8404,1422,"2020-12-16",385073,"2020-07-07",376962,"Pending",8900
+"2Mr7uQ1Wra","Multi Family",1,0,"N","Y","4.223","Atlantic City","New Jersey",8404,1998,"2020-01-18",49659,"2020-09-19",304214,"Sold",8900
+"ApKmjaJTYz","Multi Family",5,1,"Y","Y","4.17","Atlantic City","New Jersey",8404,1972,"2020-01-22",249723,"2020-07-26",435252,"Pending",8900
+"AJxjfUW2Ma","Land",5,4,"Y","Y","7.675","Atlantic City","New Jersey",8404,1524,"2020-10-21",414351,"2020-09-06",460707,"Sold",8900
+"bSGMLE7VoM","Single Family",1,3,"Y","N","7.789","Atlantic City","New Jersey",8404,1791,"2020-12-12",430333,"2020-07-11",472285,"Sold",8900
+"66z3Qfj5kP","Single Family",4,0,"Y","N","4.013","Atlantic City","New Jersey",8404,2309,"2020-09-03",428657,"2020-08-27",189545,"Pending",8900
+"4brBB5gxGZ","Land",1,4,"N","Y","3.969","Atlantic City","New Jersey",8404,1141,"2020-05-29",443800,"2020-08-23",166020,"Pending",8900
+"Y4UwNlVrIs","Multi Family",1,0,"Y","Y","0.268","Atlantic City","New Jersey",8404,2297,"2020-10-30",418876,"2020-11-03",494976,"Sold",8900
+"6libqQpdl8","Single Family",3,3,"N","Y","2.718","Atlantic City","New Jersey",8404,1906,"2020-07-16",464386,"2020-09-28",225995,"Sold",8900
+"p2EHnzXq8d","Single Family",5,1,"N","Y","7.914","Atlantic City","New Jersey",8404,100,"2021-01-25",132891,"2020-11-21",171274,"Sold",8900
+"eb23C6HUV3","Single Family",3,3,"Y","Y","1.652","Atlantic City","New Jersey",8404,1824,"2020-06-26",176808,"2020-01-19",499481,"Sold",8900
+"yLf8Yo4tW5","Land",5,0,"N","N","1.696","Atlantic City","New Jersey",8404,911,"2020-03-13",39881,"2020-12-30",360089,"Pending",8900
+"IcD78u0HPK","Land",0,3,"Y","Y","6.216","Atlantic City","New Jersey",8404,218,"2020-06-10",498695,"2020-07-17",270353,"Sold",8900
+"K81PVVJtUh","Land",5,4,"Y","N","5.045","Atlantic City","New Jersey",8404,2860,"2020-07-05",138183,"2020-09-18",430308,"Sold",8900
+"bOkNRxJoHc","Single Family",3,1,"N","N","9.675","Atlantic City","New Jersey",8404,1984,"2020-07-30",81656,"2020-07-28",107108,"Pending",8900
+"V3kruET44H","Multi Family",3,0,"Y","Y","9.244","Atlantic City","New Jersey",8404,1404,"2020-09-26",83326,"2020-08-03",168125,"Pending",8900
+"PVtde8m13J","Multi Family",2,2,"Y","N","2.078","Atlantic City","New Jersey",8404,1316,"2020-05-25",271589,"2020-01-01",131401,"Sold",8900
+"VuG9tr6tlF","Multi Family",3,3,"Y","Y","2.228","Atlantic City","New Jersey",8404,2638,"2020-09-16",497792,"2020-03-06",247104,"Sold",8900
+"Le4JjWR8jN","Single Family",1,0,"N","N","1.369","Atlantic City","New Jersey",8404,2170,"2021-01-02",494268,"2020-03-07",280411,"Sold",8900
+"AkR3DAwS7e","Multi Family",1,3,"Y","N","0.079","Atlantic City","New Jersey",8404,1021,"2020-02-23",211581,"2020-02-14",310518,"Pending",8900
+"9admyqEI8L","Multi Family",2,3,"Y","N","1.804","Atlantic City","New Jersey",8404,2915,"2020-02-24",132624,"2020-08-15",332958,"Sold",8900
+"BCaT5e9Fwk","Multi Family",2,4,"N","N","5.029","Atlantic City","New Jersey",8404,2147,"2020-01-21",464796,"2020-11-13",272199,"Sold",8900
+"vPdpLDraEy","Single Family",1,1,"N","N","0.905","Atlantic City","New Jersey",8404,713,"2020-07-21",26798,"2020-08-17",272807,"Pending",8900
+"1bNt8gh0IP","Land",5,0,"N","Y","1.208","Atlantic City","New Jersey",8404,1452,"2020-08-17",439305,"2020-09-07",342196,"Sold",8900
+"YFie1rAeco","Multi Family",3,1,"N","Y","8.49","Atlantic City","New Jersey",8404,684,"2020-11-22",246268,"2020-06-12",243873,"Pending",8900
+"McPtXffGvE","Single Family",0,3,"Y","Y","0.298","Atlantic City","New Jersey",8404,1002,"2020-11-06",452524,"2020-08-02",302810,"Pending",8900
+"csZ3WUgN3p","Land",5,1,"N","N","3.325","Atlantic City","New Jersey",8404,156,"2020-01-15",82081,"2020-03-05",125487,"Sold",8900
+"BpYclER78R","Multi Family",1,2,"Y","Y","5.019","Atlantic City","New Jersey",8404,2620,"2020-09-26",366458,"2020-10-30",228293,"Sold",8900
+"yDaFSOMz2h","Single Family",5,4,"Y","Y","4.946","Atlantic City","New Jersey",8404,110,"2020-06-27",444070,"2020-05-01",433142,"Pending",8900
+"iz3qIZzpar","Single Family",3,1,"Y","N","4.708","Atlantic City","New Jersey",8404,656,"2021-01-05",390108,"2020-10-11",296250,"Sold",8900
+"lQmTeiIYA9","Multi Family",1,1,"N","Y","9.335","Atlantic City","New Jersey",8404,2150,"2020-11-05",289006,"2020-05-03",229992,"Pending",8900
+"uW3CgKaVkP","Land",5,4,"Y","N","5.549","Atlantic City","New Jersey",8404,2301,"2020-04-25",257852,"2020-07-17",217551,"Sold",8900
+"SozbJDUbBo","Multi Family",2,0,"Y","N","2.537","Atlantic City","New Jersey",8404,734,"2021-01-17",337513,"2020-11-18",241564,"Pending",8900
+"JtpcW2kos8","Land",3,4,"Y","Y","6.183","Atlantic City","New Jersey",8404,2196,"2020-09-24",406431,"2020-09-14",195668,"Sold",8900
+"NwlornMoZG","Land",5,3,"Y","Y","4.358","Atlantic City","New Jersey",8404,2057,"2020-06-25",55395,"2020-11-12",396573,"Sold",8900
+"CIuvIFxkUU","Single Family",3,0,"Y","N","3.775","Atlantic City","New Jersey",8405,1695,"2020-02-02",72442,"2020-07-14",201624,"Sold",45600
+"08wNoarwIa","Single Family",5,4,"N","Y","4.473","Atlantic City","New Jersey",8405,585,"2021-01-03",101486,"2020-02-09",37339,"Pending",45600
+"JbN0U2BU2M","Multi Family",1,2,"N","N","5.792","Atlantic City","New Jersey",8405,454,"2020-07-28",98196,"2020-11-06",346921,"Sold",45600
+"qKVQp74oHX","Land",0,4,"N","Y","0.409","Atlantic City","New Jersey",8405,1001,"2020-10-07",354606,"2020-08-03",343965,"Pending",45600
+"xPz4HoTBCt","Multi Family",4,0,"Y","Y","7.658","Atlantic City","New Jersey",8405,1695,"2020-03-23",450765,"2020-02-18",225201,"Sold",45600
+"onSbOe7KTJ","Multi Family",5,4,"Y","N","1.269","Atlantic City","New Jersey",8405,2837,"2020-05-19",414137,"2020-07-13",21921,"Sold",45600
+"Wtka2j1zHZ","Multi Family",0,3,"Y","Y","7.058","Atlantic City","New Jersey",8405,366,"2020-11-14",232531,"2020-11-06",447465,"Pending",45600
+"HJL4qQOmKE","Multi Family",2,2,"Y","Y","0.204","Atlantic City","New Jersey",8405,288,"2020-07-20",226700,"2020-06-26",381055,"Pending",45600
+"Wghor650ut","Multi Family",4,2,"N","Y","6.226","Atlantic City","New Jersey",8405,2848,"2020-01-19",223992,"2020-02-25",131222,"Sold",45600
+"c1Ivy0wHTo","Single Family",1,1,"Y","N","2.112","Atlantic City","New Jersey",8405,873,"2020-10-23",454004,"2020-01-22",387835,"Sold",45600
+"Eyt28UJ7WF","Multi Family",5,4,"Y","Y","1.46","Atlantic City","New Jersey",8405,2271,"2020-07-08",64098,"2020-02-12",114394,"Sold",45600
+"E5Kh2c8SWw","Land",3,4,"Y","Y","5.148","Atlantic City","New Jersey",8405,1074,"2020-03-18",464600,"2020-07-16",24959,"Pending",45600
+"ej50sIj59O","Multi Family",1,1,"Y","Y","3.788","Atlantic City","New Jersey",8405,1497,"2020-11-20",374024,"2020-10-11",488795,"Sold",45600
+"bWESCdZ50U","Land",1,2,"N","Y","5.623","Atlantic City","New Jersey",8405,1836,"2020-01-07",173134,"2020-03-24",79124,"Sold",45600
+"t5ZbQNFyzK","Multi Family",0,2,"Y","Y","8.968","Atlantic City","New Jersey",8405,1001,"2020-08-22",212179,"2021-01-21",271004,"Sold",45600
+"Dy6yeq8PHU","Single Family",1,4,"N","N","1.68","Atlantic City","New Jersey",8405,2350,"2021-01-27",348757,"2020-08-29",472291,"Sold",45600
+"1dkqV8DZgz","Single Family",5,4,"N","Y","2.215","Atlantic City","New Jersey",8405,241,"2020-07-10",256453,"2020-02-08",120780,"Pending",45600
+"GLYUGAk83i","Single Family",1,0,"N","Y","3.836","Atlantic City","New Jersey",8405,2411,"2021-01-18",392907,"2020-08-31",52876,"Pending",45600
+"RlHpjKa1W0","Single Family",5,3,"Y","Y","2.425","Atlantic City","New Jersey",8405,2998,"2020-08-08",452602,"2020-04-28",33246,"Sold",45600
+"v0aRA0CLFp","Single Family",2,3,"N","Y","3.341","Atlantic City","New Jersey",8405,2404,"2020-03-04",243946,"2020-06-03",166541,"Pending",45600
+"ajimRuDzm6","Single Family",2,1,"Y","N","6.401","Atlantic City","New Jersey",8405,2410,"2020-09-15",152838,"2020-09-13",45861,"Sold",45600
+"1e2zUZiHQq","Single Family",4,1,"Y","N","7.024","Atlantic City","New Jersey",8405,2865,"2020-07-08",23131,"2020-03-05",311983,"Sold",45600
+"r7ZJtvmmOu","Land",4,0,"N","N","9.969","Atlantic City","New Jersey",8405,2063,"2020-03-25",480175,"2020-05-06",319964,"Pending",45600
+"wH5Mr10Z6G","Single Family",0,1,"N","N","8.495","Atlantic City","New Jersey",8405,2959,"2020-11-27",100647,"2021-01-26",180523,"Pending",45600
+"iHM5SGEYiB","Land",2,3,"N","N","5.518","Atlantic City","New Jersey",8405,372,"2020-06-10",267086,"2020-04-05",433464,"Pending",45600
+"AGChGMuPS8","Multi Family",4,2,"Y","Y","2.216","Atlantic City","New Jersey",8405,1798,"2020-09-21",375013,"2020-09-08",240008,"Pending",45600
+"AsQVX4QFzg","Land",0,2,"Y","N","0.932","Atlantic City","New Jersey",8405,973,"2020-09-06",419008,"2020-10-10",134607,"Sold",45600
+"M5cAi9XF1O","Land",4,3,"N","Y","7.148","Atlantic City","New Jersey",8405,2801,"2020-04-27",172069,"2020-08-26",289586,"Sold",45600
+"4ZKfloYndH","Single Family",3,2,"Y","N","9.449","Atlantic City","New Jersey",8405,646,"2020-10-24",149728,"2020-04-28",244330,"Pending",45600
+"N9ZVmYgivA","Land",4,1,"Y","Y","6.143","Atlantic City","New Jersey",8405,1559,"2020-01-16",417414,"2020-02-17",44868,"Pending",45600
+"0iothljEEJ","Multi Family",3,0,"Y","N","0.592","Atlantic City","New Jersey",8405,2075,"2021-01-25",101718,"2020-07-07",64692,"Sold",45600
+"CvjF7dlzUM","Single Family",4,3,"N","N","5.292","Atlantic City","New Jersey",8405,1941,"2020-12-30",211730,"2020-11-19",394267,"Pending",45600
+"v4dcAt0ASA","Single Family",0,3,"N","N","7.613","Atlantic City","New Jersey",8405,2351,"2020-03-04",296277,"2020-08-16",452216,"Sold",45600
+"hzcAeDIfxK","Single Family",5,3,"N","N","7.703","Atlantic City","New Jersey",8405,2071,"2020-01-30",240223,"2020-09-23",376205,"Sold",45600
+"OOVgsJcHTs","Single Family",1,2,"Y","Y","0.51","Atlantic City","New Jersey",8405,2340,"2020-08-01",388472,"2020-05-27",149230,"Pending",45600
+"B2x2RYHT20","Multi Family",1,3,"Y","Y","7.472","Atlantic City","New Jersey",8405,2151,"2021-01-15",338441,"2020-05-31",384373,"Sold",45600
+"KOF3Vadbt6","Single Family",0,2,"Y","Y","2.16","Atlantic City","New Jersey",8405,563,"2020-11-08",112395,"2020-10-04",246068,"Pending",45600
+"1tYfzmJGra","Single Family",1,4,"N","N","4.805","Atlantic City","New Jersey",8405,376,"2020-12-25",496675,"2020-06-23",190112,"Pending",45600
+"5zOi7N266u","Land",4,2,"Y","N","3.399","Atlantic City","New Jersey",8405,533,"2020-06-25",144180,"2020-02-13",388708,"Pending",45600
+"SM2CoyxQGL","Land",1,0,"Y","Y","2.253","Atlantic City","New Jersey",8405,1971,"2020-05-11",269529,"2020-07-04",336481,"Sold",45600
+"h11DyplDcR","Land",1,4,"Y","Y","1.882","Atlantic City","New Jersey",8405,821,"2020-08-01",333881,"2020-01-04",41210,"Pending",45600
+"V5UBUNOfnp","Single Family",0,3,"Y","N","2.534","Atlantic City","New Jersey",8405,1725,"2020-10-04",28867,"2020-04-26",369452,"Sold",45600
+"akAfNjl6yK","Land",3,0,"N","N","3.525","Atlantic City","New Jersey",8405,1339,"2020-06-03",389781,"2020-07-15",231352,"Sold",45600
+"0BZsw7ywlG","Single Family",2,2,"N","Y","3.006","Atlantic City","New Jersey",8405,424,"2020-01-23",373258,"2020-07-24",269657,"Pending",45600
+"9nq7gjT6Iv","Multi Family",4,1,"N","N","9.692","Atlantic City","New Jersey",8405,2138,"2020-03-06",286343,"2020-12-15",17233,"Sold",45600
+"qJllXxCoTu","Multi Family",5,4,"N","N","1.462","Atlantic City","New Jersey",8405,1869,"2020-12-22",226649,"2020-08-15",450131,"Pending",45600
+"olWKfcXdFl","Multi Family",0,2,"Y","Y","7.509","Atlantic City","New Jersey",8405,816,"2020-09-18",141607,"2020-09-10",279782,"Pending",45600
+"KlrNJPVS20","Land",1,2,"N","N","4.255","Basking Ridge","New Jersey",7920,2112,"2020-08-09",333066,"2019-12-31",321522,"Pending",7000
+"tFdMi4iUoS","Land",2,2,"N","Y","8.391","Basking Ridge","New Jersey",7920,2124,"2020-11-29",452658,"2020-01-31",137363,"Sold",7000
+"TwBGCyYPGT","Land",0,3,"N","Y","4.2","Basking Ridge","New Jersey",7920,2252,"2020-10-04",259221,"2020-08-27",461677,"Sold",7000
+"KsOwX98P5t","Multi Family",2,0,"N","Y","7.538","Basking Ridge","New Jersey",7920,1866,"2020-09-29",422881,"2020-07-18",102539,"Sold",7000
+"zgBr2x60p4","Land",3,3,"Y","N","4.542","Basking Ridge","New Jersey",7920,984,"2020-03-18",245390,"2020-07-28",47232,"Pending",7000
+"nkgsKkiBHU","Multi Family",5,2,"Y","Y","6.813","Basking Ridge","New Jersey",7920,2941,"2020-03-15",127035,"2020-11-18",112326,"Pending",7000
+"M5Uf51wgH6","Land",5,3,"N","N","3.316","Basking Ridge","New Jersey",7920,977,"2020-08-10",488623,"2021-01-14",439362,"Sold",7000
+"ulMBmfV8Nr","Multi Family",5,4,"N","N","6.272","Basking Ridge","New Jersey",7920,417,"2020-01-16",116426,"2020-06-29",461566,"Sold",7000
+"NR22kAtHv2","Single Family",3,1,"N","Y","6.097","Basking Ridge","New Jersey",7920,829,"2020-01-11",100129,"2020-05-14",154012,"Pending",7000
+"CKxqYrO9L8","Multi Family",4,2,"Y","N","5.099","Basking Ridge","New Jersey",7920,2484,"2020-05-26",174955,"2020-09-03",219354,"Sold",7000
+"VKb8fsQpYf","Single Family",0,2,"N","Y","3.636","Basking Ridge","New Jersey",7920,1547,"2020-07-10",262990,"2020-03-12",150045,"Sold",7000
+"j3blIsdyea","Multi Family",2,2,"Y","N","4.169","Basking Ridge","New Jersey",7920,2718,"2020-03-15",166784,"2020-05-04",303026,"Pending",7000
+"erMk64GXTl","Multi Family",0,1,"Y","N","3.689","Basking Ridge","New Jersey",7920,1051,"2020-12-10",367712,"2020-02-28",287907,"Sold",7000
+"vc1ezxZ7Cl","Land",4,2,"N","Y","6.429","Basking Ridge","New Jersey",7920,2600,"2020-05-25",392569,"2020-08-07",226856,"Sold",7000
+"y3lLxjCmyn","Land",2,2,"Y","N","1.087","Basking Ridge","New Jersey",7920,2313,"2020-05-03",372247,"2020-03-20",355254,"Sold",7000
+"H4ZVyqdZa3","Multi Family",4,1,"N","N","5.165","Basking Ridge","New Jersey",7920,1069,"2020-04-08",202861,"2020-03-29",94413,"Sold",7000
+"Dm21O9jKL0","Multi Family",3,2,"N","Y","6.704","Basking Ridge","New Jersey",7920,454,"2020-05-08",410209,"2020-08-04",79633,"Sold",7000
+"NjT3GooESg","Multi Family",5,2,"Y","Y","8.11","Basking Ridge","New Jersey",7920,2951,"2020-12-15",266282,"2020-05-20",279631,"Pending",7000
+"LIUhPjbJ18","Multi Family",5,1,"N","Y","6.017","Basking Ridge","New Jersey",7920,813,"2020-03-20",115387,"2020-05-17",373585,"Sold",7000
+"Z0FMptjWpb","Multi Family",2,3,"N","Y","2.065","Basking Ridge","New Jersey",7920,1610,"2020-01-26",182390,"2020-01-20",499997,"Pending",7000
+"MbxB41hfYS","Land",1,3,"N","Y","2","Basking Ridge","New Jersey",7920,738,"2020-03-18",111736,"2020-12-24",280615,"Sold",7000
+"BMEmR0xxFP","Land",4,2,"N","Y","0.938","Basking Ridge","New Jersey",7920,795,"2020-03-28",319634,"2020-03-26",291157,"Sold",7000
+"3rdu8arlrX","Single Family",2,1,"Y","Y","8.006","Basking Ridge","New Jersey",7920,964,"2020-12-15",499765,"2020-06-23",39499,"Pending",7000
+"8JoBTrxYkk","Land",2,1,"Y","N","9.389","Basking Ridge","New Jersey",7920,106,"2020-04-10",300057,"2020-09-07",251316,"Pending",7000
+"4WhkabfGQd","Land",5,1,"Y","N","0.209","Basking Ridge","New Jersey",7920,1133,"2020-03-02",43840,"2020-05-17",449823,"Pending",7000
+"hwLaKcFuHi","Multi Family",2,2,"N","Y","5.179","Basking Ridge","New Jersey",7920,358,"2020-03-31",490500,"2020-08-18",425257,"Sold",7000
+"Nhf7MTi81I","Single Family",1,1,"N","N","0.261","Basking Ridge","New Jersey",7920,802,"2020-05-25",157808,"2020-09-20",380451,"Sold",7000
+"TIKrElSaqK","Multi Family",1,0,"Y","N","8.057","Basking Ridge","New Jersey",7920,2313,"2020-03-13",128153,"2020-09-01",453968,"Pending",7000
+"5IOEEg9hRy","Single Family",5,1,"N","Y","4.62","Basking Ridge","New Jersey",7920,2943,"2020-03-19",300216,"2020-07-09",443591,"Pending",7000
+"GTnNaqHLRd","Single Family",3,0,"N","N","7.458","Basking Ridge","New Jersey",7920,286,"2020-03-11",402946,"2020-04-21",401449,"Sold",7000
+"bkJ4vNQ1pr","Multi Family",3,4,"Y","N","7.874","Basking Ridge","New Jersey",7920,1268,"2021-01-10",303150,"2020-08-23",74084,"Sold",7000
+"W3ddpuhfbe","Single Family",3,3,"Y","N","4.88","Basking Ridge","New Jersey",7920,1864,"2020-02-23",423191,"2020-02-29",387413,"Pending",7000
+"MHqzI15ytT","Single Family",1,4,"Y","N","4.135","Basking Ridge","New Jersey",7920,522,"2021-01-17",124582,"2020-12-13",56398,"Pending",7000
+"p17mh4rZrI","Land",1,4,"Y","N","6.942","Basking Ridge","New Jersey",7920,2582,"2020-09-17",335468,"2020-04-10",379460,"Sold",7000
+"Mq4NTeA7Wr","Land",5,3,"Y","Y","3.56","Basking Ridge","New Jersey",7920,1140,"2020-10-14",351748,"2020-02-16",19033,"Sold",7000
+"Czbsg24hvj","Multi Family",3,1,"N","Y","8.697","Basking Ridge","New Jersey",7920,2773,"2020-05-01",378917,"2020-08-17",97141,"Sold",7000
+"w6Cqh0q3vp","Multi Family",5,0,"Y","N","0.897","Basking Ridge","New Jersey",7920,1740,"2020-11-20",463117,"2020-05-26",327202,"Sold",7000
+"dAjR3PxKgA","Multi Family",1,0,"Y","Y","0.696","Basking Ridge","New Jersey",7920,794,"2020-05-29",277008,"2020-07-04",224070,"Sold",7000
+"3wh5ffJRoq","Land",1,4,"Y","N","2.595","Basking Ridge","New Jersey",7920,1799,"2020-07-20",118266,"2020-10-14",241046,"Pending",7000
+"Js4m9N6Lav","Land",4,1,"Y","N","5.189","Basking Ridge","New Jersey",7920,818,"2021-01-23",175475,"2020-10-06",343085,"Pending",7000
+"OsbPulJwJa","Single Family",2,4,"Y","N","2.503","Basking Ridge","New Jersey",7920,735,"2020-10-27",108467,"2020-01-28",269124,"Sold",7000
+"IbnbALGmme","Multi Family",5,4,"N","Y","2.184","Basking Ridge","New Jersey",7920,2994,"2020-10-09",165517,"2020-09-16",126281,"Pending",7000
+"LB4LsaV5VU","Land",1,4,"N","N","5.002","Basking Ridge","New Jersey",7920,495,"2020-06-15",367641,"2020-02-12",479985,"Pending",7000
+"NTTyqrXH1w","Single Family",5,4,"N","Y","3.703","Basking Ridge","New Jersey",7920,2396,"2020-07-24",151422,"2020-07-26",89319,"Pending",7000
+"8p3iFQFCkQ","Single Family",2,3,"Y","Y","7.316","Basking Ridge","New Jersey",7920,659,"2020-10-31",209943,"2020-03-09",64310,"Pending",7000
+"gRyl6rTWnm","Multi Family",1,2,"Y","N","3.94","Basking Ridge","New Jersey",7920,185,"2020-06-16",294661,"2020-04-28",37187,"Pending",7000
+"JdUMRZivy5","Land",0,1,"Y","Y","5.729","Basking Ridge","New Jersey",7920,1616,"2020-08-20",385475,"2020-01-24",270833,"Pending",7000
+"31EltgO1u2","Land",0,3,"Y","Y","2.158","Basking Ridge","New Jersey",7920,367,"2020-10-28",127860,"2021-01-21",293961,"Pending",7000
+"KgvzFuecsm","Land",0,3,"N","N","9.849","Basking Ridge","New Jersey",7920,2476,"2021-01-05",52965,"2020-11-10",381639,"Pending",7000
+"bpx66g5iES","Multi Family",4,3,"Y","N","7.966","Basking Ridge","New Jersey",7920,2532,"2020-08-03",76918,"2020-10-14",51797,"Sold",7000
+"2iiGyak1jC","Land",4,0,"N","Y","3.808","Basking Ridge","New Jersey",7920,2615,"2021-01-04",281130,"2020-09-29",19872,"Pending",7000
+"rns9kIm2em","Single Family",3,0,"Y","N","3.089","Basking Ridge","New Jersey",7920,180,"2020-02-24",291781,"2021-01-01",305715,"Sold",7000
+"PMSRbLwE4H","Single Family",1,4,"N","Y","8.838","Basking Ridge","New Jersey",7920,1241,"2020-02-08",145917,"2020-03-07",238872,"Sold",7000
+"SmMSm5XJ04","Single Family",2,0,"Y","Y","4.178","Basking Ridge","New Jersey",7920,1976,"2020-01-30",392762,"2020-01-22",351923,"Sold",7000
+"dk0XVSaxwK","Multi Family",3,2,"N","Y","5.873","Elizabeth","New Jersey",7208,1182,"2020-02-05",119242,"2020-05-12",415041,"Sold",6890
+"LKLwsSFtRE","Multi Family",4,1,"Y","Y","4.582","Elizabeth","New Jersey",7208,459,"2020-12-06",166983,"2020-05-14",124914,"Sold",6890
+"a2Xz83Jjkf","Land",3,0,"Y","N","9.006","Elizabeth","New Jersey",7208,126,"2020-04-03",412599,"2020-08-24",256388,"Pending",6890
+"EK5ennlxow","Multi Family",3,0,"Y","Y","9.786","Elizabeth","New Jersey",7208,1675,"2020-04-09",226514,"2020-06-03",240512,"Pending",6890
+"AIugfodIn0","Land",3,3,"N","N","4.725","Elizabeth","New Jersey",7208,2482,"2020-12-05",283430,"2020-10-14",413043,"Pending",6890
+"uIv4TIaAhx","Single Family",5,1,"Y","N","4.835","Elizabeth","New Jersey",7208,706,"2020-05-01",471070,"2021-01-02",271877,"Pending",6890
+"4pX7HMuSN3","Single Family",3,3,"N","Y","1.417","Elizabeth","New Jersey",7208,1050,"2020-10-17",162945,"2020-04-22",50642,"Pending",6890
+"T6l1a2N4Aq","Single Family",5,3,"Y","N","8.07","Elizabeth","New Jersey",7208,2044,"2020-04-23",301224,"2020-02-05",341883,"Pending",6890
+"ZYapTqOqPK","Land",3,3,"Y","Y","3.216","Elizabeth","New Jersey",7208,537,"2020-06-05",64823,"2020-05-25",242711,"Pending",6890
+"8hvj6PMevb","Land",5,3,"Y","Y","4.19","Elizabeth","New Jersey",7208,2812,"2020-08-18",304650,"2020-03-27",312561,"Sold",6890
+"KIHwxDU4aJ","Multi Family",1,4,"Y","Y","4.429","Elizabeth","New Jersey",7208,1098,"2020-05-13",386717,"2020-11-08",306269,"Pending",6890
+"6WEHXsnzaJ","Multi Family",4,0,"Y","Y","7.238","Elizabeth","New Jersey",7208,1535,"2020-10-01",14569,"2020-02-05",131161,"Pending",6890
+"xbouNhg7gs","Single Family",2,4,"Y","N","6.457","Elizabeth","New Jersey",7208,1529,"2020-06-24",124402,"2020-02-13",383141,"Pending",6890
+"bMvLuy5XGb","Multi Family",5,1,"N","Y","2.751","Elizabeth","New Jersey",7208,2226,"2020-06-18",474545,"2020-05-08",187886,"Pending",6890
+"rsVY3UuozU","Multi Family",0,1,"Y","N","5.981","Elizabeth","New Jersey",7208,2011,"2020-05-23",407974,"2020-02-16",397939,"Pending",6890
+"NKihxbwen3","Land",0,1,"N","Y","7.146","Elizabeth","New Jersey",7208,681,"2020-11-05",222569,"2020-10-28",179866,"Sold",6890
+"Cm4Al1lkUF","Single Family",4,2,"Y","N","7.084","Elizabeth","New Jersey",7208,373,"2020-08-18",236633,"2021-01-19",176240,"Pending",6890
+"5rpfhMq1h1","Land",5,1,"Y","N","3.693","Elizabeth","New Jersey",7208,1148,"2020-11-01",276845,"2020-05-23",287100,"Pending",6890
+"cd1jeQRmTq","Single Family",3,0,"N","Y","8.147","Elizabeth","New Jersey",7208,1316,"2020-01-24",159601,"2020-11-06",58113,"Sold",6890
+"Az4Mx1wx0a","Single Family",1,2,"N","N","4.372","Elizabeth","New Jersey",7208,182,"2020-11-11",266907,"2020-10-06",469916,"Pending",6890
+"7jRwdHkwoY","Land",3,4,"Y","N","8.055","Elizabeth","New Jersey",7208,396,"2020-05-17",119843,"2020-05-21",310907,"Pending",6890
+"j3ysgctKH2","Multi Family",1,2,"N","Y","9.32","Elizabeth","New Jersey",7208,2284,"2020-06-19",162667,"2020-08-18",339090,"Pending",6890
+"LfW1mYNxvz","Multi Family",2,3,"Y","Y","4.325","Elizabeth","New Jersey",7208,2888,"2021-01-10",97437,"2020-11-14",393553,"Sold",6890
+"bxjiGhIrSW","Land",0,2,"N","N","0.09","Elizabeth","New Jersey",7208,1382,"2020-01-05",324962,"2020-06-23",120935,"Pending",6890
+"4BnQZ8vkmh","Single Family",1,2,"Y","N","9.211","Elizabeth","New Jersey",7208,2385,"2020-02-22",12353,"2020-03-06",231691,"Pending",6890
+"Q40oFUTcT6","Land",4,3,"N","N","3.035","Elizabeth","New Jersey",7208,2812,"2020-07-06",51102,"2020-07-02",472025,"Sold",6890
+"GCVFQZM0S0","Single Family",0,0,"Y","N","4.178","Elizabeth","New Jersey",7208,2124,"2020-04-29",72648,"2020-02-12",429753,"Sold",6890
+"qG1aSgNxfP","Single Family",4,0,"Y","N","9.533","Elizabeth","New Jersey",7208,2065,"2020-01-09",315827,"2020-02-12",328291,"Pending",6890
+"o0WgF2FfJl","Single Family",1,2,"Y","Y","3.154","Elizabeth","New Jersey",7208,398,"2020-03-28",370347,"2020-03-11",496298,"Sold",6890
+"1L0OYOT8Gx","Multi Family",1,4,"Y","Y","6.065","Elizabeth","New Jersey",7208,506,"2020-03-26",402574,"2020-12-09",98906,"Sold",6890
+"OIBY9D1lez","Single Family",0,4,"N","Y","0.182","Elizabeth","New Jersey",7208,976,"2020-11-29",322442,"2020-02-11",245383,"Sold",6890
+"HsGX7MpYFP","Multi Family",1,2,"N","N","2.973","Elizabeth","New Jersey",7208,469,"2020-11-14",110389,"2021-01-30",268207,"Pending",6890
+"zVpilASR8h","Multi Family",4,1,"N","N","0.177","Elizabeth","New Jersey",7208,285,"2020-10-06",381540,"2020-05-18",11915,"Sold",6890
+"KvV5FNWUA6","Land",5,3,"N","Y","3.345","Elizabeth","New Jersey",7208,457,"2020-04-04",481822,"2021-01-25",135835,"Sold",6890
+"ZacG3x65Do","Single Family",2,1,"Y","Y","8.652","Elizabeth","New Jersey",7208,268,"2020-08-06",224621,"2020-09-09",22466,"Sold",6890
+"bOlJY6zGMg","Multi Family",4,2,"Y","N","2.489","Elizabeth","New Jersey",7208,1027,"2020-10-17",56855,"2020-04-20",61494,"Sold",6890
+"Z3Mck6HNsJ","Land",3,3,"Y","Y","7.857","Elizabeth","New Jersey",7208,1367,"2020-05-02",178062,"2020-05-15",353990,"Pending",6890
+"iwvUDm8yL0","Land",5,4,"N","N","3.296","Elizabeth","New Jersey",7208,1980,"2020-07-13",215816,"2020-10-06",22327,"Sold",6890
+"DmXTjonU93","Single Family",1,1,"N","Y","9.138","Elizabeth","New Jersey",7208,125,"2020-10-18",451505,"2020-07-26",217702,"Pending",6890
+"GlLhi7G6Wi","Land",4,3,"N","Y","0.327","Elizabeth","New Jersey",7208,1037,"2020-09-20",164853,"2020-01-09",289842,"Pending",6890
+"GddQiq6RlV","Land",2,3,"Y","Y","3.741","Elizabeth","New Jersey",7208,1517,"2020-12-24",181679,"2020-06-03",222323,"Pending",6890
+"WIaEnjWfSf","Multi Family",1,3,"N","Y","0.551","Elizabeth","New Jersey",7208,2526,"2020-01-31",344181,"2020-12-24",470043,"Pending",6890
+"NXXfjoCGHT","Multi Family",0,1,"N","Y","5.54","Elizabeth","New Jersey",7208,2886,"2020-04-03",403283,"2020-02-28",233348,"Pending",6890
+"hoCNQ5gpCA","Multi Family",1,3,"N","Y","2.862","Elizabeth","New Jersey",7208,1072,"2021-01-09",431508,"2020-03-21",82700,"Sold",6890
+"zfQ5u9Fmk7","Land",3,0,"Y","N","2.552","Elizabeth","New Jersey",7208,2938,"2020-07-26",47944,"2020-06-06",159487,"Pending",6890
+"jJURr73In0","Land",5,3,"N","N","4.345","Elizabeth","New Jersey",7208,1307,"2020-03-23",66524,"2020-04-28",233135,"Pending",6890
+"sZpZtCUttZ","Land",3,1,"N","N","3.041","Elizabeth","New Jersey",7208,257,"2020-07-09",417613,"2020-08-10",288767,"Pending",6890
+"PEYq7eXI2p","Single Family",1,3,"Y","N","6.331","Elizabeth","New Jersey",7208,1541,"2020-08-13",256413,"2020-09-17",140996,"Pending",6890
+"DKpjZPQr3T","Land",5,2,"Y","Y","9.671","Elizabeth","New Jersey",7208,1303,"2020-10-01",44956,"2020-11-07",290808,"Pending",6890
+"0QfNMQst4M","Single Family",4,1,"N","N","1.405","Elizabeth","New Jersey",7208,1458,"2020-10-15",152153,"2020-05-05",66264,"Pending",6890
+"eusQvPRTkH","Single Family",2,3,"Y","Y","6.726","Elizabeth","New Jersey",7208,1202,"2021-01-02",93814,"2020-04-06",351371,"Sold",6890
+"RulrQVlo6N","Single Family",5,2,"Y","N","3.097","Elizabeth","New Jersey",7208,493,"2020-02-28",304206,"2020-10-15",14993,"Pending",6890
+"PFJ1fwv5L5","Single Family",3,3,"Y","Y","4.898","Elizabeth","New Jersey",7208,1667,"2020-05-01",39435,"2020-05-31",116557,"Pending",6890
+"sCvWpuCYf0","Multi Family",2,1,"N","N","6.636","Elizabeth","New Jersey",7215,2409,"2020-11-24",113879,"2020-12-21",299077,"Sold",26500
+"gpZkB4ZyUl","Multi Family",0,4,"N","N","3.452","Elizabeth","New Jersey",7215,488,"2020-10-14",497324,"2020-01-28",373268,"Pending",26500
+"04aEnREszK","Land",1,1,"Y","N","1.998","Elizabeth","New Jersey",7215,1078,"2020-12-08",64822,"2020-05-26",441028,"Pending",26500
+"GRPbBBLH2N","Single Family",2,3,"N","N","5.598","Elizabeth","New Jersey",7215,1717,"2020-04-30",378210,"2021-01-09",34803,"Sold",26500
+"vxHqjvfYVY","Land",2,2,"N","N","6.004","Elizabeth","New Jersey",7215,1586,"2020-05-11",43701,"2020-03-03",249344,"Sold",26500
+"iyFBYRNIQc","Multi Family",5,1,"N","N","1.409","Elizabeth","New Jersey",7215,870,"2020-04-27",455090,"2020-07-22",90527,"Pending",26500
+"kj8E69vEXA","Multi Family",1,3,"N","N","2.633","Elizabeth","New Jersey",7215,968,"2020-06-10",149108,"2020-06-02",235552,"Sold",26500
+"n92UIDWwAX","Multi Family",0,4,"Y","Y","8.754","Elizabeth","New Jersey",7215,1114,"2020-11-19",321261,"2020-04-17",173146,"Pending",26500
+"DT5YGBtvKG","Multi Family",0,4,"Y","N","8.249","Elizabeth","New Jersey",7215,2366,"2020-12-03",243418,"2020-08-09",352608,"Sold",26500
+"3cVvUKT4Te","Land",2,4,"N","Y","0.303","Elizabeth","New Jersey",7215,2504,"2020-02-22",367132,"2020-06-13",37397,"Pending",26500
+"LrbHvL1iaU","Multi Family",1,4,"N","Y","1.625","Elizabeth","New Jersey",7215,2433,"2020-07-15",166890,"2020-01-27",251790,"Pending",26500
+"CqiOPJpWkU","Multi Family",1,4,"Y","N","9.804","Elizabeth","New Jersey",7215,2721,"2020-02-26",344957,"2021-01-21",426061,"Pending",26500
+"aASQEgAHGY","Land",2,3,"N","N","7.157","Elizabeth","New Jersey",7215,2425,"2020-10-10",168077,"2020-04-08",75388,"Pending",26500
+"WLhEkP8hvD","Multi Family",1,2,"N","Y","0.408","Elizabeth","New Jersey",7215,2582,"2020-08-20",227049,"2020-09-13",198120,"Pending",26500
+"9YmNcbAMdz","Land",5,3,"N","Y","2.831","Elizabeth","New Jersey",7215,374,"2020-02-20",460512,"2020-05-08",313993,"Pending",26500
+"tEioBfjcX0","Multi Family",0,4,"Y","Y","4.774","Elizabeth","New Jersey",7215,1126,"2020-06-24",243285,"2020-02-14",173154,"Pending",26500
+"Dtsg1yC8aF","Single Family",3,0,"Y","N","0.116","Elizabeth","New Jersey",7215,795,"2020-09-08",166177,"2020-04-22",432603,"Sold",26500
+"xVp8kpdO9U","Land",0,1,"N","Y","7.115","Elizabeth","New Jersey",7215,1518,"2020-08-12",432155,"2020-10-12",196454,"Pending",26500
+"0sDBQW610n","Land",0,0,"Y","N","1.727","Elizabeth","New Jersey",7215,2228,"2020-12-05",183732,"2020-04-17",26909,"Sold",26500
+"YeuIBm3G32","Single Family",2,1,"N","Y","0.015","Elizabeth","New Jersey",7215,1583,"2020-03-15",213033,"2020-01-08",359217,"Sold",26500
+"c4oEWY4oOo","Multi Family",2,3,"Y","N","8.984","Elizabeth","New Jersey",7215,2107,"2020-03-23",67538,"2020-07-11",394780,"Pending",26500
+"I3HLqayAtN","Single Family",5,2,"N","N","6.785","Elizabeth","New Jersey",7215,2619,"2020-08-11",326924,"2020-08-19",26403,"Pending",26500
+"cl0Qq782sA","Single Family",5,3,"N","Y","9.333","Elizabeth","New Jersey",7215,1072,"2020-12-04",352726,"2020-11-10",130927,"Sold",26500
+"NfnUc6XMjB","Multi Family",3,4,"N","N","0.891","Elizabeth","New Jersey",7215,2143,"2020-08-20",266786,"2020-07-25",93759,"Pending",26500
+"TX45eIAyTp","Single Family",0,0,"N","N","6.327","Elizabeth","New Jersey",7215,885,"2020-03-29",477203,"2020-03-30",383920,"Sold",26500
+"7SdMn37AbQ","Land",1,1,"N","N","5.207","Elizabeth","New Jersey",7215,456,"2020-03-12",75776,"2020-09-16",47234,"Pending",26500
+"XitnovEvzd","Single Family",1,0,"N","N","6.798","Elizabeth","New Jersey",7215,2749,"2020-03-18",109299,"2020-02-18",277760,"Sold",26500
+"vOw72j3nZP","Single Family",1,3,"Y","N","1.49","Elizabeth","New Jersey",7215,2638,"2020-10-07",231276,"2020-10-03",110073,"Sold",26500
+"AmyaapVoXR","Land",5,4,"Y","Y","8.677","Elizabeth","New Jersey",7215,2665,"2020-04-16",177135,"2020-02-19",200375,"Pending",26500
+"tOkKy19D5h","Land",1,0,"N","N","2.116","Elizabeth","New Jersey",7215,1700,"2020-09-04",45113,"2020-04-06",432220,"Pending",26500
+"Mna4MmoPFa","Multi Family",0,2,"Y","N","6.754","Elizabeth","New Jersey",7215,309,"2020-04-11",410548,"2020-06-12",414114,"Sold",26500
+"94uv0k0D9C","Single Family",4,2,"Y","N","0.998","Elizabeth","New Jersey",7215,1465,"2020-04-27",76770,"2020-07-24",267899,"Sold",26500
+"MPvStDoMeo","Land",3,1,"Y","Y","1.869","Elizabeth","New Jersey",7215,1005,"2020-02-20",111213,"2020-02-06",327702,"Sold",26500
+"y2WwrVVCg8","Land",1,3,"N","Y","0.918","Elizabeth","New Jersey",7215,1046,"2021-01-18",145758,"2020-06-03",439317,"Pending",26500
+"i0Czci60mq","Multi Family",3,3,"N","Y","5.428","Elizabeth","New Jersey",7215,984,"2020-08-01",74086,"2020-02-20",283727,"Sold",26500
+"JCTNXQWVar","Land",0,0,"N","Y","5.279","Elizabeth","New Jersey",7215,305,"2020-09-20",76061,"2020-03-14",269777,"Sold",26500
+"H2m2cQ4SWk","Multi Family",4,0,"N","N","2.66","Elizabeth","New Jersey",7215,1966,"2020-02-28",65766,"2020-06-06",64395,"Pending",26500
+"OYytE3uV5J","Single Family",5,2,"Y","Y","7.624","Elizabeth","New Jersey",7215,878,"2020-06-22",53428,"2020-12-20",287445,"Pending",26500
+"IXqS0K0vSi","Multi Family",1,3,"N","Y","2.413","Elizabeth","New Jersey",7215,2739,"2020-09-24",409346,"2020-10-02",307457,"Sold",26500
+"YNRPEFepK4","Single Family",1,0,"N","Y","0.984","Elizabeth","New Jersey",7215,1654,"2020-05-17",156907,"2020-12-22",392808,"Pending",26500
+"9rzfO0ZUDU","Single Family",3,4,"Y","N","6.677","Elizabeth","New Jersey",7215,1069,"2020-04-25",251328,"2020-01-31",496247,"Sold",26500
+"cgn8rzdY5d","Multi Family",4,0,"N","N","4.363","Elizabeth","New Jersey",7215,1853,"2020-12-27",336014,"2020-10-06",164833,"Pending",26500
+"KNLy6z1jdA","Multi Family",3,0,"Y","Y","9.394","Elizabeth","New Jersey",7215,753,"2020-08-14",116637,"2020-04-19",376829,"Pending",26500
+"ZqHSSeKNbf","Single Family",1,3,"N","Y","4.99","Elizabeth","New Jersey",7215,168,"2020-02-04",248178,"2020-12-07",17945,"Pending",26500
+"LrUxK5ULYO","Land",0,2,"Y","Y","7.277","Elizabeth","New Jersey",7215,449,"2021-01-21",151506,"2020-10-11",480046,"Pending",26500
+"ACfZ7p4k7t","Single Family",0,0,"Y","N","7.087","Elizabeth","New Jersey",7215,910,"2020-01-28",403007,"2020-01-10",31978,"Sold",26500
+"4KEm46AUHd","Single Family",1,4,"N","N","6.103","Elizabeth","New Jersey",7215,2474,"2020-04-24",307241,"2020-12-14",81281,"Sold",26500
+"8x7OtFJUKs","Multi Family",3,3,"Y","N","6.213","Elizabeth","New Jersey",7215,566,"2020-02-26",352004,"2020-08-09",280650,"Sold",26500
+"CJQ7vMwjam","Land",0,1,"N","Y","3.87","Elizabeth","New Jersey",7215,662,"2020-07-05",241320,"2020-07-15",331084,"Sold",26500
+"3nLJCAhTPV","Multi Family",4,4,"Y","Y","8.407","Elizabeth","New Jersey",7216,862,"2020-06-02",107490,"2020-06-25",476175,"Sold",2100
+"YubSESQrpS","Multi Family",1,2,"Y","N","2.858","Elizabeth","New Jersey",7216,2647,"2020-11-21",480689,"2020-08-20",95779,"Sold",2100
+"FNTrSoPKO4","Land",1,4,"Y","N","1.587","Elizabeth","New Jersey",7216,2833,"2020-01-13",39140,"2020-02-09",60572,"Sold",2100
+"uFkrFMx3fC","Land",1,0,"Y","N","0.603","Elizabeth","New Jersey",7216,711,"2020-01-29",416827,"2020-09-20",121034,"Pending",2100
+"UK86sFS5f6","Single Family",1,3,"Y","Y","0.689","Elizabeth","New Jersey",7216,643,"2020-05-17",91332,"2020-11-19",409939,"Sold",2100
+"XqpQjYGyYO","Single Family",5,4,"Y","N","5.384","Elizabeth","New Jersey",7216,280,"2020-08-29",442345,"2020-09-20",87688,"Sold",2100
+"XvAL2C7dyV","Land",3,3,"N","N","3.787","Elizabeth","New Jersey",7216,412,"2020-05-08",196747,"2020-08-03",497730,"Pending",2100
+"iTL7UzAE7l","Multi Family",4,2,"N","N","1.914","Elizabeth","New Jersey",7216,1291,"2020-02-28",481158,"2021-01-01",396034,"Pending",2100
+"oNNPq1osi0","Multi Family",3,1,"Y","N","1.717","Elizabeth","New Jersey",7216,1892,"2020-08-01",191576,"2020-06-22",417650,"Pending",2100
+"ZiF1FQ8urG","Single Family",4,3,"Y","N","7.012","Elizabeth","New Jersey",7216,734,"2020-10-18",122351,"2020-06-15",117641,"Pending",2100
+"2eHm1yuWIL","Land",0,1,"Y","N","4.778","Elizabeth","New Jersey",7216,842,"2020-12-20",235194,"2020-11-19",453582,"Pending",2100
+"njT2dOKJsB","Land",0,2,"Y","N","2.106","Elizabeth","New Jersey",7216,2954,"2020-08-08",167850,"2021-01-03",85364,"Pending",2100
+"5dRm6v3Lc3","Multi Family",1,0,"Y","Y","0.136","Elizabeth","New Jersey",7216,1707,"2020-04-24",435502,"2020-11-10",424989,"Sold",2100
+"AJZshThQ8r","Single Family",0,4,"N","Y","2.283","Elizabeth","New Jersey",7216,1174,"2020-05-11",210450,"2020-02-29",353101,"Sold",2100
+"gGN5KwrPWp","Multi Family",4,2,"Y","Y","4.124","Elizabeth","New Jersey",7216,2896,"2020-10-05",213315,"2020-03-16",123579,"Sold",2100
+"lkihReBapo","Land",1,1,"N","N","5.239","Elizabeth","New Jersey",7216,1975,"2020-02-12",164142,"2020-12-26",182794,"Sold",2100
+"8oe4Bt9YGu","Single Family",3,0,"Y","Y","1.992","Elizabeth","New Jersey",7216,2853,"2020-07-25",117088,"2020-10-26",386799,"Sold",2100
+"ytnSBiIG5i","Land",3,1,"N","N","6.387","Elizabeth","New Jersey",7216,2074,"2020-04-28",169023,"2020-11-10",414773,"Sold",2100
+"HaiV7tvToh","Land",4,3,"N","N","4.738","Elizabeth","New Jersey",7216,1731,"2020-07-11",353760,"2020-07-03",144854,"Sold",2100
+"yOR9hWmR9R","Multi Family",0,0,"Y","Y","6.243","Elizabeth","New Jersey",7216,739,"2020-10-23",346454,"2020-11-04",379578,"Pending",2100
+"gO2FEwFnqV","Multi Family",5,0,"Y","N","7.096","Elizabeth","New Jersey",7216,1548,"2020-12-13",159143,"2020-02-23",456224,"Pending",2100
+"SvDVx6nlsQ","Multi Family",0,1,"Y","N","1.761","Elizabeth","New Jersey",7216,804,"2020-01-04",27716,"2020-04-17",117312,"Pending",2100
+"rfDffS90FM","Multi Family",2,3,"N","N","6.971","Elizabeth","New Jersey",7216,214,"2020-09-26",47530,"2020-09-25",464596,"Pending",2100
+"LWPaG7VVb7","Multi Family",3,4,"Y","Y","2.247","Elizabeth","New Jersey",7216,1603,"2021-01-22",233805,"2020-08-10",333876,"Pending",2100
+"QQzSVuy5dO","Single Family",5,2,"N","N","9.262","Elizabeth","New Jersey",7216,2482,"2020-11-25",422676,"2020-02-07",280537,"Sold",2100
+"aLXYuxomkl","Land",5,3,"N","N","1.606","Elizabeth","New Jersey",7216,1598,"2020-09-09",130689,"2020-01-28",436310,"Pending",2100
+"YEa7prL9ku","Land",4,3,"Y","N","9.977","Elizabeth","New Jersey",7216,1725,"2020-08-22",89894,"2020-11-25",319933,"Sold",2100
+"Id5I3xtmcO","Land",4,0,"N","Y","4.656","Elizabeth","New Jersey",7216,1444,"2020-07-23",450319,"2020-12-09",50675,"Pending",2100
+"NptW8vRQYr","Land",4,1,"Y","N","9.413","Elizabeth","New Jersey",7216,2656,"2020-04-08",375778,"2020-07-29",139942,"Pending",2100
+"woEZFm5cVD","Single Family",5,4,"N","Y","7.89","Elizabeth","New Jersey",7216,1849,"2020-06-30",317932,"2020-11-23",321641,"Sold",2100
+"geRPlll9ai","Multi Family",2,4,"N","N","5.713","Elizabeth","New Jersey",7216,2796,"2020-02-20",113933,"2020-05-18",131246,"Pending",2100
+"0MSthRdnuw","Land",2,2,"Y","N","1.086","Elizabeth","New Jersey",7216,2090,"2020-04-19",371166,"2020-08-01",256600,"Sold",2100
+"UpaUxcPUD0","Single Family",0,2,"Y","N","1.82","Elizabeth","New Jersey",7216,2959,"2020-01-30",128337,"2020-12-19",94304,"Sold",2100
+"awsyKqpDVT","Land",5,2,"N","N","1.59","Elizabeth","New Jersey",7216,547,"2020-03-26",90663,"2020-12-09",459871,"Pending",2100
+"9vggsI0Pus","Land",4,3,"N","Y","2.721","Elizabeth","New Jersey",7216,934,"2020-09-12",353276,"2020-02-22",418675,"Pending",2100
+"Mr5j7pPifu","Multi Family",2,1,"Y","N","7.564","Elizabeth","New Jersey",7216,2241,"2020-01-28",490338,"2020-05-05",288297,"Sold",2100
+"uoxjc0jVWS","Land",3,2,"N","N","3.726","Elizabeth","New Jersey",7216,1870,"2020-10-12",358977,"2020-03-12",374607,"Pending",2100
+"iDEa0Z5GhB","Multi Family",0,3,"Y","N","2.432","Elizabeth","New Jersey",7216,1501,"2020-12-19",24765,"2020-03-11",17005,"Sold",2100
+"15pAWY4Ikh","Single Family",4,0,"Y","Y","1.841","Elizabeth","New Jersey",7216,1821,"2020-04-18",238742,"2020-05-26",275863,"Pending",2100
+"IiBtUAg1RE","Single Family",4,4,"Y","N","5.585","Elizabeth","New Jersey",7216,2987,"2020-08-09",333914,"2020-02-12",475855,"Sold",2100
+"1l5HDAjsmM","Land",1,4,"Y","Y","5.613","Elizabeth","New Jersey",7216,189,"2020-04-07",295055,"2020-05-24",271478,"Sold",2100
+"GawYtj4Tsi","Single Family",4,3,"N","Y","5.583","Elizabeth","New Jersey",7216,1302,"2020-05-12",155398,"2020-09-17",382844,"Pending",2100
+"55SRP4ANg3","Land",3,0,"Y","N","9.386","Elizabeth","New Jersey",7216,2660,"2020-06-10",470558,"2020-11-26",77271,"Pending",2100
+"Dn0uVNw2pX","Land",4,1,"Y","Y","8.821","Elizabeth","New Jersey",7216,1757,"2020-03-11",355958,"2020-01-22",386925,"Sold",2100
+"CDgLWnESGx","Single Family",5,2,"Y","Y","8.335","Elizabeth","New Jersey",7216,1580,"2020-04-20",183979,"2021-01-17",181732,"Pending",2100
+"J2B1KrOZOj","Land",0,0,"N","Y","3.699","Elizabeth","New Jersey",7216,2157,"2020-08-12",353287,"2020-03-02",226468,"Sold",2100
+"mSslQHgDOy","Land",0,3,"N","N","5.864","Elizabeth","New Jersey",7216,2465,"2020-05-03",403884,"2020-09-04",408421,"Pending",2100
+"o9MJsf2LjW","Multi Family",5,0,"Y","N","6.265","Elizabeth","New Jersey",7216,184,"2020-08-30",396911,"2020-08-07",92100,"Pending",2100
+"KRCK4Kgfs6","Land",5,2,"Y","N","8.423","Elizabeth","New Jersey",7216,1158,"2020-08-08",394798,"2020-08-14",246163,"Pending",2100
+"61jNAYUlAO","Land",2,2,"Y","N","4.277","Elizabeth","New Jersey",7216,650,"2020-09-19",255127,"2020-01-09",391058,"Sold",2100
+"vmpDUmBFzH","Land",2,0,"Y","N","8.214","Elizabeth","New Jersey",7216,1267,"2020-05-02",165067,"2020-12-22",131751,"Pending",2100
+"nsrtNJEHaj","Multi Family",3,0,"N","Y","3.758","Elizabeth","New Jersey",7216,2673,"2020-11-01",352580,"2020-11-14",11430,"Pending",2100
+"AJ46Z7qTiY","Multi Family",1,0,"N","Y","9.993","Elizabeth","New Jersey",7216,1180,"2021-01-10",337653,"2020-12-09",322909,"Pending",2100
+"VAXwIfLPWT","Land",2,2,"Y","Y","2.188","Elizabeth","New Jersey",7216,2195,"2020-04-19",18700,"2020-06-28",226623,"Sold",2100
+"YJyRdr7GPM","Land",3,2,"Y","N","0.81","Elizabeth","New Jersey",7216,681,"2020-10-03",275277,"2020-04-22",142683,"Pending",2100
+"h2QSvfoNoY","Land",3,4,"Y","N","1.944","Elizabeth","New Jersey",7216,2603,"2020-09-06",25748,"2020-03-05",72077,"Pending",2100
+"rBQfXazR2W","Land",5,1,"Y","N","9.27","Elizabeth","New Jersey",7216,2658,"2020-08-04",125955,"2020-07-04",451686,"Sold",2100
+"NM2w6Wkoqc","Single Family",5,2,"N","Y","6.9","Elizabeth","New Jersey",7216,2481,"2020-05-21",327700,"2020-11-04",454587,"Sold",2100
+"GsuAW3j6TW","Land",4,1,"Y","N","1.24","Elizabeth","New Jersey",7216,2416,"2020-12-11",65058,"2020-12-07",367333,"Sold",2100
+"HIIs0oXMdX","Multi Family",4,2,"Y","N","2.53","Elizabeth","New Jersey",7216,403,"2020-05-30",71930,"2020-05-04",469238,"Pending",2100
+"cWiICzEpPd","Single Family",1,3,"Y","Y","1.386","Elizabeth","New Jersey",7216,2102,"2020-04-10",451896,"2020-04-27",425708,"Sold",2100
+"SL6JLflmqh","Multi Family",3,0,"N","Y","1.256","Hammonton","New Jersey",8037,284,"2020-09-11",69170,"2020-03-09",150258,"Pending",23000
+"SL6JLflmqh","Multi Family",3,0,"N","Y","1.256","Hammonton","New Jersey",8037,284,"2020-09-11",69170,"2020-03-09",150258,"Pending",23729
+"VS6DvXQV4l","Land",2,4,"Y","N","7.279","Hammonton","New Jersey",8037,1465,"2020-09-22",21587,"2021-01-05",467829,"Pending",23000
+"VS6DvXQV4l","Land",2,4,"Y","N","7.279","Hammonton","New Jersey",8037,1465,"2020-09-22",21587,"2021-01-05",467829,"Pending",23729
+"6rDb6FlV4g","Land",1,3,"N","Y","4.357","Hammonton","New Jersey",8037,2930,"2020-05-26",329178,"2020-11-14",157936,"Sold",23000
+"6rDb6FlV4g","Land",1,3,"N","Y","4.357","Hammonton","New Jersey",8037,2930,"2020-05-26",329178,"2020-11-14",157936,"Sold",23729
+"LoRori6r2y","Land",2,0,"N","Y","6.537","Hammonton","New Jersey",8037,2718,"2020-05-26",47154,"2020-08-07",438950,"Sold",23000
+"LoRori6r2y","Land",2,0,"N","Y","6.537","Hammonton","New Jersey",8037,2718,"2020-05-26",47154,"2020-08-07",438950,"Sold",23729
+"bAZ8OLFMbX","Multi Family",1,2,"Y","Y","3.505","Hammonton","New Jersey",8037,2180,"2020-01-20",429722,"2020-11-18",160173,"Pending",23000
+"bAZ8OLFMbX","Multi Family",1,2,"Y","Y","3.505","Hammonton","New Jersey",8037,2180,"2020-01-20",429722,"2020-11-18",160173,"Pending",23729
+"r2BHN1B6fR","Single Family",2,1,"Y","N","0.085","Hammonton","New Jersey",8037,570,"2020-03-02",232000,"2021-03-05",221000,"Sold",23000
+"r2BHN1B6fR","Single Family",2,1,"Y","N","0.085","Hammonton","New Jersey",8037,570,"2020-03-02",232000,"2021-03-05",221000,"Sold",23729
+"MRwg0kgv4a","Multi Family",3,4,"N","N","8.023","Hammonton","New Jersey",8037,1937,"2020-04-16",157233,"2020-09-19",277401,"Pending",23000
+"MRwg0kgv4a","Multi Family",3,4,"N","N","8.023","Hammonton","New Jersey",8037,1937,"2020-04-16",157233,"2020-09-19",277401,"Pending",23729
+"N635uSaAX8","Single Family",2,2,"Y","N","6.084","Hammonton","New Jersey",8037,1919,"2020-12-16",71037,"2020-12-23",259846,"Pending",23000
+"N635uSaAX8","Single Family",2,2,"Y","N","6.084","Hammonton","New Jersey",8037,1919,"2020-12-16",71037,"2020-12-23",259846,"Pending",23729
+"l8nLh1Z4AD","Single Family",4,3,"N","N","5.648","Hammonton","New Jersey",8037,1255,"2020-07-28",221250,"2021-01-03",136818,"Sold",23000
+"l8nLh1Z4AD","Single Family",4,3,"N","N","5.648","Hammonton","New Jersey",8037,1255,"2020-07-28",221250,"2021-01-03",136818,"Sold",23729
+"l6wqXX9YaO","Land",1,4,"Y","Y","7.692","Hammonton","New Jersey",8037,445,"2020-09-16",387707,"2020-05-08",349747,"Pending",23000
+"l6wqXX9YaO","Land",1,4,"Y","Y","7.692","Hammonton","New Jersey",8037,445,"2020-09-16",387707,"2020-05-08",349747,"Pending",23729
+"zeB0TPYpc0","Single Family",5,1,"N","N","1.666","Hammonton","New Jersey",8037,2795,"2020-03-10",91805,"2020-08-17",378767,"Pending",23000
+"zeB0TPYpc0","Single Family",5,1,"N","N","1.666","Hammonton","New Jersey",8037,2795,"2020-03-10",91805,"2020-08-17",378767,"Pending",23729
+"VuqyXQDYBw","Single Family",2,0,"N","N","8.874","Hammonton","New Jersey",8037,1907,"2021-01-28",168722,"2020-07-14",206530,"Sold",23000
+"VuqyXQDYBw","Single Family",2,0,"N","N","8.874","Hammonton","New Jersey",8037,1907,"2021-01-28",168722,"2020-07-14",206530,"Sold",23729
+"PPSn8tiuQH","Land",3,0,"Y","Y","4.833","Hammonton","New Jersey",8037,2868,"2020-10-09",489811,"2021-01-28",101218,"Pending",23000
+"PPSn8tiuQH","Land",3,0,"Y","Y","4.833","Hammonton","New Jersey",8037,2868,"2020-10-09",489811,"2021-01-28",101218,"Pending",23729
+"A1vxSGRgtS","Single Family",1,4,"N","N","3.271","Hammonton","New Jersey",8037,1767,"2020-07-28",384745,"2020-07-12",141705,"Pending",23000
+"A1vxSGRgtS","Single Family",1,4,"N","N","3.271","Hammonton","New Jersey",8037,1767,"2020-07-28",384745,"2020-07-12",141705,"Pending",23729
+"e3xXZHzzOT","Land",4,0,"Y","N","1.603","Hammonton","New Jersey",8037,2486,"2020-12-29",358066,"2020-01-07",194884,"Pending",23000
+"e3xXZHzzOT","Land",4,0,"Y","N","1.603","Hammonton","New Jersey",8037,2486,"2020-12-29",358066,"2020-01-07",194884,"Pending",23729
+"P32VleXcde","Single Family",5,4,"Y","Y","6.74","Hammonton","New Jersey",8037,1609,"2020-03-17",50972,"2020-08-20",263653,"Sold",23000
+"P32VleXcde","Single Family",5,4,"Y","Y","6.74","Hammonton","New Jersey",8037,1609,"2020-03-17",50972,"2020-08-20",263653,"Sold",23729
+"ErhrrtKb3n","Single Family",0,0,"N","Y","0.626","Hammonton","New Jersey",8037,2376,"2020-10-25",147027,"2020-12-30",171434,"Sold",23000
+"ErhrrtKb3n","Single Family",0,0,"N","Y","0.626","Hammonton","New Jersey",8037,2376,"2020-10-25",147027,"2020-12-30",171434,"Sold",23729
+"38s5SUTZBj","Single Family",0,2,"N","Y","7.492","Hammonton","New Jersey",8037,655,"2020-02-18",107904,"2020-11-04",187785,"Sold",23000
+"38s5SUTZBj","Single Family",0,2,"N","Y","7.492","Hammonton","New Jersey",8037,655,"2020-02-18",107904,"2020-11-04",187785,"Sold",23729
+"mJCpRNt7vT","Single Family",2,4,"Y","Y","8.564","Hammonton","New Jersey",8037,2303,"2020-09-26",321271,"2020-04-12",108055,"Pending",23000
+"mJCpRNt7vT","Single Family",2,4,"Y","Y","8.564","Hammonton","New Jersey",8037,2303,"2020-09-26",321271,"2020-04-12",108055,"Pending",23729
+"5OjAx2g4Q0","Land",2,2,"Y","N","3.339","Hammonton","New Jersey",8037,808,"2021-01-05",199627,"2020-11-28",147957,"Pending",23000
+"5OjAx2g4Q0","Land",2,2,"Y","N","3.339","Hammonton","New Jersey",8037,808,"2021-01-05",199627,"2020-11-28",147957,"Pending",23729
+"QUNKhDdYlz","Multi Family",0,4,"N","Y","0.133","Hammonton","New Jersey",8037,1896,"2020-01-05",296690,"2020-06-20",154611,"Sold",23000
+"QUNKhDdYlz","Multi Family",0,4,"N","Y","0.133","Hammonton","New Jersey",8037,1896,"2020-01-05",296690,"2020-06-20",154611,"Sold",23729
+"YVxCWin5lv","Multi Family",5,4,"Y","Y","6.013","Hammonton","New Jersey",8037,1189,"2020-05-31",234257,"2020-04-14",144441,"Sold",23000
+"YVxCWin5lv","Multi Family",5,4,"Y","Y","6.013","Hammonton","New Jersey",8037,1189,"2020-05-31",234257,"2020-04-14",144441,"Sold",23729
+"MtCd1v6g8l","Land",4,4,"Y","Y","1.155","Hammonton","New Jersey",8037,2326,"2021-01-05",188405,"2020-01-21",492506,"Sold",23000
+"MtCd1v6g8l","Land",4,4,"Y","Y","1.155","Hammonton","New Jersey",8037,2326,"2021-01-05",188405,"2020-01-21",492506,"Sold",23729
+"PJWWSErl45","Single Family",3,4,"Y","Y","1.015","Hammonton","New Jersey",8037,1709,"2020-05-10",23835,"2020-10-30",58402,"Pending",23000
+"PJWWSErl45","Single Family",3,4,"Y","Y","1.015","Hammonton","New Jersey",8037,1709,"2020-05-10",23835,"2020-10-30",58402,"Pending",23729
+"5iLBZB7ZaF","Multi Family",4,0,"N","Y","3.833","Hammonton","New Jersey",8037,1205,"2020-08-26",235864,"2020-01-15",13792,"Sold",23000
+"5iLBZB7ZaF","Multi Family",4,0,"N","Y","3.833","Hammonton","New Jersey",8037,1205,"2020-08-26",235864,"2020-01-15",13792,"Sold",23729
+"NNESBsuhLv","Single Family",4,4,"Y","N","9.711","Hammonton","New Jersey",8037,2439,"2020-08-01",352502,"2020-05-22",126392,"Pending",23000
+"NNESBsuhLv","Single Family",4,4,"Y","N","9.711","Hammonton","New Jersey",8037,2439,"2020-08-01",352502,"2020-05-22",126392,"Pending",23729
+"L3xWRV6BXP","Multi Family",5,1,"N","N","2.57","Hammonton","New Jersey",8037,1781,"2020-08-02",434588,"2020-05-12",308663,"Pending",23000
+"L3xWRV6BXP","Multi Family",5,1,"N","N","2.57","Hammonton","New Jersey",8037,1781,"2020-08-02",434588,"2020-05-12",308663,"Pending",23729
+"NbVUgMDBlr","Single Family",4,3,"Y","N","9.277","Hammonton","New Jersey",8037,1947,"2021-01-21",494836,"2021-01-13",469976,"Pending",23000
+"NbVUgMDBlr","Single Family",4,3,"Y","N","9.277","Hammonton","New Jersey",8037,1947,"2021-01-21",494836,"2021-01-13",469976,"Pending",23729
+"NEYft5YUQc","Single Family",2,0,"N","N","9.262","Hammonton","New Jersey",8037,2819,"2020-02-01",418566,"2020-10-15",425777,"Pending",23000
+"NEYft5YUQc","Single Family",2,0,"N","N","9.262","Hammonton","New Jersey",8037,2819,"2020-02-01",418566,"2020-10-15",425777,"Pending",23729
+"aYRKQLKvs5","Multi Family",1,2,"Y","Y","3.798","Hammonton","New Jersey",8037,1140,"2020-06-15",475660,"2020-08-29",70705,"Sold",23000
+"aYRKQLKvs5","Multi Family",1,2,"Y","Y","3.798","Hammonton","New Jersey",8037,1140,"2020-06-15",475660,"2020-08-29",70705,"Sold",23729
+"1wzJ09ekFN","Single Family",1,1,"N","Y","1.715","Hammonton","New Jersey",8037,1335,"2020-07-01",410446,"2020-09-02",120255,"Pending",23000
+"1wzJ09ekFN","Single Family",1,1,"N","Y","1.715","Hammonton","New Jersey",8037,1335,"2020-07-01",410446,"2020-09-02",120255,"Pending",23729
+"C0FuWd7eYA","Multi Family",2,0,"Y","N","4.814","Hammonton","New Jersey",8037,2410,"2020-01-14",180857,"2020-03-27",342326,"Sold",23000
+"C0FuWd7eYA","Multi Family",2,0,"Y","N","4.814","Hammonton","New Jersey",8037,2410,"2020-01-14",180857,"2020-03-27",342326,"Sold",23729
+"zpiyYG8QFW","Single Family",4,2,"Y","Y","7.225","Hammonton","New Jersey",8037,2083,"2020-08-25",300139,"2020-09-10",258985,"Pending",23000
+"zpiyYG8QFW","Single Family",4,2,"Y","Y","7.225","Hammonton","New Jersey",8037,2083,"2020-08-25",300139,"2020-09-10",258985,"Pending",23729
+"On2kcLqPm1","Single Family",2,3,"Y","Y","7.276","Hammonton","New Jersey",8037,635,"2020-12-22",274386,"2020-05-30",172171,"Pending",23000
+"On2kcLqPm1","Single Family",2,3,"Y","Y","7.276","Hammonton","New Jersey",8037,635,"2020-12-22",274386,"2020-05-30",172171,"Pending",23729
+"ppXHwqyZQU","Multi Family",1,0,"Y","N","4.502","Hammonton","New Jersey",8037,2580,"2020-04-16",193470,"2021-01-16",173452,"Sold",23000
+"ppXHwqyZQU","Multi Family",1,0,"Y","N","4.502","Hammonton","New Jersey",8037,2580,"2020-04-16",193470,"2021-01-16",173452,"Sold",23729
+"lH1rvAoXC0","Single Family",3,4,"N","Y","0.646","Hammonton","New Jersey",8037,297,"2020-12-09",14668,"2020-09-08",143717,"Pending",23000
+"lH1rvAoXC0","Single Family",3,4,"N","Y","0.646","Hammonton","New Jersey",8037,297,"2020-12-09",14668,"2020-09-08",143717,"Pending",23729
+"ab67xvd45a","Single Family",3,2,"Y","Y","0.12","Hammonton","New Jersey",8037,930,"2020-01-09",210000,"2020-04-05",22000,"Sold",23000
+"ab67xvd45a","Single Family",3,2,"Y","Y","0.12","Hammonton","New Jersey",8037,930,"2020-01-09",210000,"2020-04-05",22000,"Sold",23729
+"pC4opT2hCU","Single Family",3,3,"Y","Y","3.136","Hammonton","New Jersey",8037,2358,"2020-02-03",142587,"2020-12-19",35279,"Sold",23000
+"pC4opT2hCU","Single Family",3,3,"Y","Y","3.136","Hammonton","New Jersey",8037,2358,"2020-02-03",142587,"2020-12-19",35279,"Sold",23729
+"66h6kyATie","Land",2,4,"N","Y","9.701","Hammonton","New Jersey",8037,2598,"2020-12-13",486313,"2020-08-05",120258,"Pending",23000
+"66h6kyATie","Land",2,4,"N","Y","9.701","Hammonton","New Jersey",8037,2598,"2020-12-13",486313,"2020-08-05",120258,"Pending",23729
+"IlXXGdOE38","Land",5,3,"N","N","6.361","Hammonton","New Jersey",8037,2194,"2020-09-26",444018,"2020-02-08",134160,"Sold",23000
+"IlXXGdOE38","Land",5,3,"N","N","6.361","Hammonton","New Jersey",8037,2194,"2020-09-26",444018,"2020-02-08",134160,"Sold",23729
+"HGFmoZkAU5","Multi Family",4,4,"N","N","1.349","Hammonton","New Jersey",8037,753,"2020-03-14",145836,"2020-11-16",212105,"Sold",23000
+"HGFmoZkAU5","Multi Family",4,4,"N","N","1.349","Hammonton","New Jersey",8037,753,"2020-03-14",145836,"2020-11-16",212105,"Sold",23729
+"2mHTbppx4r","Multi Family",4,4,"N","Y","6.161","Hammonton","New Jersey",8037,1218,"2020-12-29",46342,"2020-12-25",466039,"Pending",23000
+"2mHTbppx4r","Multi Family",4,4,"N","Y","6.161","Hammonton","New Jersey",8037,1218,"2020-12-29",46342,"2020-12-25",466039,"Pending",23729
+"PP36A1z4h4","Multi Family",0,1,"N","N","8.26","Hammonton","New Jersey",8037,2518,"2020-11-04",255260,"2020-06-09",436016,"Pending",23000
+"PP36A1z4h4","Multi Family",0,1,"N","N","8.26","Hammonton","New Jersey",8037,2518,"2020-11-04",255260,"2020-06-09",436016,"Pending",23729
+"pYPlHkvkm7","Multi Family",1,4,"Y","N","4.959","Hammonton","New Jersey",8037,1354,"2020-10-20",17078,"2020-08-29",296908,"Sold",23000
+"pYPlHkvkm7","Multi Family",1,4,"Y","N","4.959","Hammonton","New Jersey",8037,1354,"2020-10-20",17078,"2020-08-29",296908,"Sold",23729
+"16Oe3ClPfg","Multi Family",5,3,"Y","N","7.191","Hammonton","New Jersey",8037,1827,"2021-01-03",493970,"2020-10-03",271915,"Sold",23000
+"16Oe3ClPfg","Multi Family",5,3,"Y","N","7.191","Hammonton","New Jersey",8037,1827,"2021-01-03",493970,"2020-10-03",271915,"Sold",23729
+"bRVWfP60rC","Single Family",3,0,"N","N","7.512","Hammonton","New Jersey",8037,864,"2020-07-05",333076,"2020-10-28",421872,"Pending",23000
+"bRVWfP60rC","Single Family",3,0,"N","N","7.512","Hammonton","New Jersey",8037,864,"2020-07-05",333076,"2020-10-28",421872,"Pending",23729
+"e6xT3snn28","Single Family",3,2,"N","N","2.845","Hammonton","New Jersey",8037,1899,"2020-02-24",496992,"2020-04-14",421490,"Sold",23000
+"e6xT3snn28","Single Family",3,2,"N","N","2.845","Hammonton","New Jersey",8037,1899,"2020-02-24",496992,"2020-04-14",421490,"Sold",23729
+"V0SGoYC0DB","Land",2,4,"Y","N","6.419","Hammonton","New Jersey",8037,2193,"2020-03-30",46153,"2020-06-29",408089,"Sold",23000
+"V0SGoYC0DB","Land",2,4,"Y","N","6.419","Hammonton","New Jersey",8037,2193,"2020-03-30",46153,"2020-06-29",408089,"Sold",23729
+"ni8kQpBlI7","Land",0,0,"N","N","1.1","Hammonton","New Jersey",8037,1200,"2021-03-05",31000,"2021-03-05",32000,"Pending",23000
+"ni8kQpBlI7","Land",0,0,"N","N","1.1","Hammonton","New Jersey",8037,1200,"2021-03-05",31000,"2021-03-05",32000,"Pending",23729
+"YOtxAGomkJ","Land",0,0,"N","Y","5.369","Hammonton","New Jersey",8037,2123,"2020-09-20",207514,"2020-08-01",217137,"Pending",23000
+"YOtxAGomkJ","Land",0,0,"N","Y","5.369","Hammonton","New Jersey",8037,2123,"2020-09-20",207514,"2020-08-01",217137,"Pending",23729
+"ZLjCBDo79A","Multi Family",5,1,"Y","Y","2.081","Hammonton","New Jersey",8037,360,"2020-05-10",163391,"2020-01-11",256772,"Sold",23000
+"ZLjCBDo79A","Multi Family",5,1,"Y","Y","2.081","Hammonton","New Jersey",8037,360,"2020-05-10",163391,"2020-01-11",256772,"Sold",23729
+"VvaD8xqckt","Single Family",3,1,"N","N","3.296","Hammonton","New Jersey",8037,1017,"2021-01-07",467684,"2020-06-13",455385,"Sold",23000
+"VvaD8xqckt","Single Family",3,1,"N","N","3.296","Hammonton","New Jersey",8037,1017,"2021-01-07",467684,"2020-06-13",455385,"Sold",23729
+"hPgaaVDZst","Land",1,0,"Y","Y","0.035","Hammonton","New Jersey",8037,1135,"2021-01-10",263139,"2020-06-27",238393,"Pending",23000
+"hPgaaVDZst","Land",1,0,"Y","Y","0.035","Hammonton","New Jersey",8037,1135,"2021-01-10",263139,"2020-06-27",238393,"Pending",23729
+"1Jg9NzvXl7","Multi Family",2,4,"Y","Y","2.728","Hammonton","New Jersey",8037,1954,"2020-10-28",338391,"2020-12-08",299833,"Pending",23000
+"1Jg9NzvXl7","Multi Family",2,4,"Y","Y","2.728","Hammonton","New Jersey",8037,1954,"2020-10-28",338391,"2020-12-08",299833,"Pending",23729
+"P982zVzpx9","Land",5,4,"Y","N","8.684","Hammonton","New Jersey",8037,1113,"2020-08-27",62977,"2020-01-19",34190,"Sold",23000
+"P982zVzpx9","Land",5,4,"Y","N","8.684","Hammonton","New Jersey",8037,1113,"2020-08-27",62977,"2020-01-19",34190,"Sold",23729
+"Hc6RGnfwQl","Single Family",1,1,"N","N","8.179","Hammonton","New Jersey",8037,880,"2020-04-16",355763,"2021-01-17",472019,"Sold",23000
+"Hc6RGnfwQl","Single Family",1,1,"N","N","8.179","Hammonton","New Jersey",8037,880,"2020-04-16",355763,"2021-01-17",472019,"Sold",23729
+"qzKYp5Duov","Single Family",3,3,"Y","Y","8.492","Hammonton","New Jersey",8037,1473,"2020-06-28",104889,"2020-01-15",166686,"Sold",23000
+"qzKYp5Duov","Single Family",3,3,"Y","Y","8.492","Hammonton","New Jersey",8037,1473,"2020-06-28",104889,"2020-01-15",166686,"Sold",23729
+"bc5W9XcrcN","Land",5,0,"Y","N","0.754","Hammonton","New Jersey",8037,670,"2020-06-15",464091,"2020-08-05",191730,"Sold",23000
+"bc5W9XcrcN","Land",5,0,"Y","N","0.754","Hammonton","New Jersey",8037,670,"2020-06-15",464091,"2020-08-05",191730,"Sold",23729
+"UysB83WP1y","Single Family",0,0,"Y","Y","1.623","Hammonton","New Jersey",8037,2004,"2020-06-17",146920,"2020-09-06",159108,"Pending",23000
+"UysB83WP1y","Single Family",0,0,"Y","Y","1.623","Hammonton","New Jersey",8037,2004,"2020-06-17",146920,"2020-09-06",159108,"Pending",23729
+"jNcNXZiIvJ","Multi Family",5,2,"N","Y","7.816","Hammonton","New Jersey",8037,2639,"2020-12-03",473042,"2020-03-22",289498,"Sold",23000
+"jNcNXZiIvJ","Multi Family",5,2,"N","Y","7.816","Hammonton","New Jersey",8037,2639,"2020-12-03",473042,"2020-03-22",289498,"Sold",23729
+"xIJm9cTRAv","Single Family",2,2,"N","N","1.646","Hudson County","New Jersey",7305,1927,"2021-01-23",249924,"2020-09-09",255978,"Sold",12700
+"CCCEcPT7Vi","Land",4,1,"Y","N","4.039","Hudson County","New Jersey",7305,2921,"2020-11-04",43381,"2020-03-16",302523,"Pending",12700
+"YQtGL7VHmI","Land",3,0,"Y","Y","7.321","Hudson County","New Jersey",7305,1633,"2020-07-01",210609,"2020-10-15",471690,"Pending",12700
+"5DgKud6leP","Land",4,1,"N","N","6.607","Hudson County","New Jersey",7305,972,"2020-01-15",306842,"2020-11-18",276804,"Sold",12700
+"6j45fs9nau","Multi Family",5,4,"Y","N","5.912","Hudson County","New Jersey",7305,892,"2020-10-30",297878,"2020-04-29",487779,"Sold",12700
+"qINovu7Xej","Land",1,0,"N","Y","3.322","Hudson County","New Jersey",7305,2677,"2020-11-22",297407,"2021-01-11",391664,"Pending",12700
+"Hz4xTGSOmu","Land",3,2,"N","N","4.282","Hudson County","New Jersey",7305,1054,"2020-10-09",380164,"2020-11-11",270808,"Sold",12700
+"oMxxRNj8X5","Single Family",2,4,"N","Y","9.781","Hudson County","New Jersey",7305,911,"2021-01-25",495643,"2020-02-22",68028,"Pending",12700
+"q28e75yh8p","Land",2,4,"N","Y","3.036","Hudson County","New Jersey",7305,2003,"2020-03-12",229331,"2020-06-23",394932,"Sold",12700
+"9zvlBqCkIc","Land",5,3,"Y","Y","9.591","Hudson County","New Jersey",7305,1178,"2020-08-01",164940,"2020-08-09",255499,"Pending",12700
+"x3ewtOxZSd","Land",0,3,"N","Y","2.601","Hudson County","New Jersey",7305,2804,"2020-12-12",24391,"2021-01-07",176070,"Pending",12700
+"moEVuVf4Z2","Single Family",1,4,"Y","N","5.972","Hudson County","New Jersey",7305,1221,"2020-01-02",188160,"2021-01-16",253311,"Pending",12700
+"jBL8z1qgBb","Single Family",1,4,"N","N","5.074","Hudson County","New Jersey",7305,2173,"2020-02-12",445915,"2020-12-14",65187,"Sold",12700
+"BNaD73nGat","Multi Family",4,3,"Y","Y","9.186","Hudson County","New Jersey",7305,356,"2020-03-06",466905,"2021-01-14",353825,"Sold",12700
+"zvEyQmCyDz","Single Family",1,1,"N","N","8.265","Hudson County","New Jersey",7305,1281,"2020-02-11",429647,"2020-06-29",390544,"Sold",12700
+"VLGEahKCzp","Multi Family",4,1,"N","N","2.749","Hudson County","New Jersey",7305,954,"2020-07-15",174762,"2020-12-03",426670,"Sold",12700
+"dN1izwtzbm","Single Family",2,1,"Y","N","2.644","Hudson County","New Jersey",7305,1826,"2020-06-06",29759,"2021-01-20",167462,"Sold",12700
+"0AVQltLwXI","Single Family",4,2,"Y","Y","2.826","Hudson County","New Jersey",7305,216,"2020-09-28",258781,"2020-03-06",448317,"Pending",12700
+"tSxTjdQCSl","Single Family",4,0,"Y","N","5.491","Hudson County","New Jersey",7305,1047,"2020-05-19",439493,"2020-11-08",112769,"Sold",12700
+"d6DWbliQWq","Single Family",4,0,"N","N","8.924","Hudson County","New Jersey",7305,2111,"2020-04-28",374107,"2020-11-19",292669,"Sold",12700
+"UzYS7OC1J7","Land",0,1,"Y","N","7.526","Hudson County","New Jersey",7305,352,"2020-02-11",277767,"2020-10-10",206816,"Sold",12700
+"ybgpsxKvBZ","Land",4,1,"Y","Y","6.103","Hudson County","New Jersey",7305,225,"2020-09-28",335405,"2021-01-08",81865,"Sold",12700
+"YupECLH9e4","Multi Family",3,4,"N","N","1.916","Hudson County","New Jersey",7305,1620,"2020-08-15",74300,"2020-11-29",171502,"Pending",12700
+"Jdo0TlNn35","Single Family",1,4,"N","Y","6.755","Hudson County","New Jersey",7305,1221,"2020-12-30",209891,"2020-11-09",453452,"Pending",12700
+"CoS8XJkpgK","Single Family",4,4,"N","N","1.558","Hudson County","New Jersey",7305,964,"2020-05-10",357897,"2020-11-19",254972,"Sold",12700
+"NeJdTBuYHs","Multi Family",1,1,"N","N","8.775","Hudson County","New Jersey",7305,416,"2020-07-28",380300,"2020-05-31",266824,"Sold",12700
+"nSS0Cp8H6z","Single Family",5,3,"N","Y","6.169","Hudson County","New Jersey",7305,2480,"2020-12-23",69169,"2020-12-12",386172,"Pending",12700
+"jJ4IT0B0mH","Single Family",3,4,"Y","Y","6.188","Hudson County","New Jersey",7305,1992,"2020-02-03",84106,"2020-11-01",95554,"Pending",12700
+"7CQvsmptYl","Land",3,3,"Y","Y","8.433","Hudson County","New Jersey",7305,1721,"2020-02-09",315313,"2020-10-21",415210,"Pending",12700
+"ZjbxkcZOsG","Land",2,2,"Y","Y","3.174","Hudson County","New Jersey",7305,618,"2020-08-22",290704,"2020-02-04",81894,"Sold",12700
+"0PCtHjvhru","Multi Family",1,0,"N","Y","9.425","Hudson County","New Jersey",7305,1800,"2020-03-08",206425,"2020-09-21",267268,"Pending",12700
+"FnWqn7EOkh","Land",3,0,"N","Y","5.824","Hudson County","New Jersey",7305,1199,"2020-05-06",41540,"2020-12-31",249955,"Pending",12700
+"NOB6l84Pm5","Multi Family",1,1,"N","N","4.74","Hudson County","New Jersey",7305,825,"2020-07-31",430538,"2020-06-21",200153,"Pending",12700
+"RWRyWgraCU","Land",5,1,"N","N","9.609","Hudson County","New Jersey",7305,1828,"2020-11-03",397171,"2020-08-07",31359,"Sold",12700
+"4EANkvlL33","Single Family",2,1,"Y","Y","5.866","Hudson County","New Jersey",7305,465,"2020-04-07",110371,"2020-09-20",494911,"Sold",12700
+"4Wcfjtc0df","Single Family",5,3,"Y","N","7.652","Hudson County","New Jersey",7305,2241,"2020-04-21",278694,"2020-02-13",258947,"Sold",12700
+"KP1rBDmtld","Single Family",5,4,"Y","Y","5.164","Hudson County","New Jersey",7305,541,"2020-02-21",418635,"2020-12-24",14405,"Sold",12700
+"8c7J9ElbXF","Multi Family",0,2,"Y","Y","1.021","Hudson County","New Jersey",7305,1158,"2020-06-22",364167,"2020-04-25",115411,"Pending",12700
+"YpCMWG85Ax","Multi Family",5,3,"N","Y","3.775","Hudson County","New Jersey",7305,1993,"2020-01-03",139843,"2020-11-21",164692,"Sold",12700
+"YYQMWcYkRY","Land",4,3,"Y","N","2.718","Hudson County","New Jersey",7305,1362,"2020-12-28",302654,"2020-06-24",50945,"Sold",12700
+"6lB4smV1di","Multi Family",0,3,"Y","N","5.322","Hudson County","New Jersey",7305,312,"2020-06-12",299321,"2020-04-07",378312,"Sold",12700
+"xZ52GtwgVH","Single Family",1,3,"N","Y","9.337","Hudson County","New Jersey",7305,1707,"2020-06-27",68693,"2020-04-27",165618,"Sold",12700
+"9d4juz0c5Q","Multi Family",2,2,"Y","N","2.907","Hudson County","New Jersey",7305,559,"2020-04-13",211811,"2020-01-01",139722,"Sold",12700
+"ZfuHucaYnu","Single Family",5,2,"N","N","7.584","Hudson County","New Jersey",7305,883,"2020-01-31",362556,"2020-10-12",237440,"Pending",12700
+"vtZHYt3Yr5","Multi Family",4,3,"N","Y","5.06","Hudson County","New Jersey",7305,1038,"2020-11-08",339031,"2020-04-16",167727,"Pending",12700
+"IUc1q86O1R","Land",5,1,"Y","N","2.191","Hudson County","New Jersey",7305,695,"2020-03-24",77909,"2020-09-08",179198,"Pending",12700
+"442C7O059N","Single Family",4,4,"Y","N","9.139","Hudson County","New Jersey",7305,402,"2020-05-23",449710,"2020-11-13",252347,"Sold",12700
+"LRLjrvIjsp","Land",5,1,"N","N","1.078","Hudson County","New Jersey",7305,2156,"2020-03-14",284097,"2020-11-14",360206,"Sold",12700
+"lFqhmBs8r5","Single Family",2,1,"N","Y","8.385","Hudson County","New Jersey",7305,2531,"2020-07-16",83568,"2020-11-17",15254,"Sold",12700
+"TlICyzIwI5","Single Family",0,3,"N","N","7.883","Hudson County","New Jersey",7305,2914,"2020-03-20",328104,"2020-03-17",282859,"Sold",12700
+"pgwaVIyoP6","Land",0,4,"N","Y","7.386","Hudson County","New Jersey",7305,1788,"2020-07-19",428540,"2020-10-17",134554,"Pending",12700
+"8aV8FMscWP","Land",5,3,"N","N","5.976","Hudson County","New Jersey",7305,637,"2020-11-23",242205,"2020-06-07",337994,"Sold",12700
+"ubuIc4DDi2","Single Family",0,2,"N","N","4.277","Hudson County","New Jersey",7305,2422,"2020-09-25",140934,"2020-11-29",472801,"Pending",12700
+"7o7YsASwXH","Land",3,1,"N","N","6.229","Hudson County","New Jersey",7305,1410,"2020-12-16",13564,"2020-10-21",247311,"Pending",12700
+"D8w0lcLLQ0","Land",4,4,"Y","Y","3.082","Hudson County","New Jersey",7305,1116,"2020-11-16",499274,"2020-09-28",493191,"Pending",12700
+"GcJeIA0zw8","Single Family",3,3,"N","N","7.096","Hudson County","New Jersey",7305,2315,"2021-01-06",119816,"2020-02-15",117829,"Pending",12700
+"pmW1olfPdG","Multi Family",2,2,"N","Y","0.73","Hudson County","New Jersey",7305,1164,"2020-11-04",305975,"2020-12-17",297566,"Pending",12700
+"ohWIcRllPy","Land",0,3,"N","N","2.42","Hudson County","New Jersey",7305,2351,"2020-05-27",432597,"2020-10-13",389711,"Sold",12700
+"DKv2fWn21F","Multi Family",5,0,"Y","Y","6.974","Hudson County","New Jersey",7305,2925,"2020-09-14",237655,"2020-11-02",340829,"Pending",12700
+"IfHy2F0CI9","Land",5,4,"Y","Y","4.675","Hudson County","New Jersey",7305,422,"2020-07-04",330725,"2021-01-22",165939,"Pending",12700
+"a55fZdTwxX","Multi Family",3,0,"N","Y","9.575","Hudson County","New Jersey",7305,2546,"2020-10-23",63840,"2020-03-22",388088,"Sold",12700
+"8KPTEAWCVl","Multi Family",5,3,"N","Y","1.122","Hudson County","New Jersey",7305,771,"2020-10-18",232345,"2020-11-17",357375,"Sold",12700
+"pjDnAGjSbq","Multi Family",4,2,"N","N","9.972","Hudson County","New Jersey",7305,1167,"2020-03-18",109857,"2020-05-31",47601,"Sold",12700
+"WRTVQfgfkl","Single Family",0,0,"Y","N","1.599","Hudson County","New Jersey",7305,630,"2020-02-20",241585,"2020-03-26",357212,"Pending",12700
+"8KiO56eDal","Land",3,3,"Y","N","5.623","Hudson County","New Jersey",7305,284,"2020-09-14",234901,"2020-05-06",256207,"Pending",12700
+"8Ot5zs4jCt","Multi Family",0,3,"Y","N","7.477","Hudson County","New Jersey",7305,160,"2020-12-06",122992,"2020-08-26",231615,"Sold",12700
+"CGfuTAja6e","Multi Family",2,2,"Y","N","0.08","Hudson County","New Jersey",8037,560,"2020-01-10",128000,"2020-04-05",129000,"Sold",NULL
